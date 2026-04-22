@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: e23bfe0849e43fa4f8eb01091c9c2020
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1480124527583086089
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_0
+  - first:
+      213: -4979677006728297761
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_1
+  - first:
+      213: -7843210266238207288
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_2
+  - first:
+      213: -5171329992181303924
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_3
+  - first:
+      213: 5071590032895638152
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_4
+  - first:
+      213: -8756309032065950338
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_5
+  - first:
+      213: -6775749026601522458
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_6
+  - first:
+      213: -6160089726106652477
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_7
+  - first:
+      213: 5629942324904653527
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_8
+  - first:
+      213: -5412971910172044162
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_9
+  - first:
+      213: 90673402494471031
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_10
+  - first:
+      213: 8833085154879033832
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_11
+  - first:
+      213: -3046156135732856034
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_12
+  - first:
+      213: -1685837057926223274
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_13
+  - first:
+      213: 7738716121120754701
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_14
+  - first:
+      213: -2635123458775830999
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_15
+  - first:
+      213: -3215611553349644250
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_16
+  - first:
+      213: 3442607022025865722
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_17
+  - first:
+      213: -1963179538447125304
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_18
+  - first:
+      213: -8567683675111340465
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_19
+  - first:
+      213: -8012086746162755640
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_20
+  - first:
+      213: -1579865107270244516
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_21
+  - first:
+      213: -5864799485202605786
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_22
+  - first:
+      213: 5618025321589429703
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_23
+  - first:
+      213: 1072306461936771614
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_24
+  - first:
+      213: -2505737817012563724
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_25
+  - first:
+      213: 1897469204792394083
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_26
+  - first:
+      213: -3419759603207035775
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_27
+  - first:
+      213: -3704375088232063780
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_28
+  - first:
+      213: 3229284874418733875
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_29
+  - first:
+      213: 4183454638801035592
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_30
+  - first:
+      213: 8895351377764889680
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_31
+  - first:
+      213: 3013255462315583468
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_32
+  - first:
+      213: 2342917207184744854
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_33
+  - first:
+      213: -2442981746481538982
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_34
+  - first:
+      213: -1624955222630099679
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_35
+  - first:
+      213: 4602497611442330518
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_36
+  - first:
+      213: 3039470792165110007
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_37
+  - first:
+      213: -8589461283818856206
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_38
+  - first:
+      213: -2140731349398395065
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_39
+  - first:
+      213: -8064754294264716318
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_40
+  - first:
+      213: 3796232595343031758
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_41
+  - first:
+      213: -8911918673716721181
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_42
+  - first:
+      213: -3675298270866272519
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_43
+  - first:
+      213: -5433425187583145084
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_44
+  - first:
+      213: -5754348422672329661
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_45
+  - first:
+      213: -2349480389487298759
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_46
+  - first:
+      213: -6930843697472610405
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_47
+  - first:
+      213: 5428086181481070604
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_48
+  - first:
+      213: 7027765645675677321
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_49
+  - first:
+      213: -7010623950990640703
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_50
+  - first:
+      213: -893995829100687862
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_51
+  - first:
+      213: 5135164458136279756
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_52
+  - first:
+      213: -8624769084018292167
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_53
+  - first:
+      213: 1318571643192536489
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_54
+  - first:
+      213: 7546046294362236390
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_55
+  - first:
+      213: 3406990383100351642
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_56
+  - first:
+      213: -2044231375346973772
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_57
+  - first:
+      213: 3774151017993293665
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_58
+  - first:
+      213: 6336492647932199376
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_59
+  - first:
+      213: 1330574713859404373
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_60
+  - first:
+      213: 1411915833262550120
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_61
+  - first:
+      213: 3420053521877758648
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_62
+  - first:
+      213: 7117216437713350492
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_63
+  - first:
+      213: -422426065210980807
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_64
+  - first:
+      213: 1493841311770631322
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_65
+  - first:
+      213: -339891227127104679
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_66
+  - first:
+      213: 7933076331244988733
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_67
+  - first:
+      213: 446636736416163281
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_68
+  - first:
+      213: -5599423703229349528
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_69
+  - first:
+      213: 5017416221293145205
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_70
+  - first:
+      213: 7800254092361340131
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_71
+  - first:
+      213: -1664613924395102937
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_72
+  - first:
+      213: -1288681384379755428
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_73
+  - first:
+      213: -6543995932037927392
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_74
+  - first:
+      213: 1320536433741352930
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_75
+  - first:
+      213: -6466656995604172528
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_76
+  - first:
+      213: 8122278136048606096
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_77
+  - first:
+      213: 3997150715757965484
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_78
+  - first:
+      213: 8755355135176592800
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_79
+  - first:
+      213: 556984131673742812
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_80
+  - first:
+      213: -4052177631885296250
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_81
+  - first:
+      213: -4476693291149596514
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_82
+  - first:
+      213: 7336778709296627835
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_83
+  - first:
+      213: 4295961386027089735
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_84
+  - first:
+      213: 497720865681098079
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_85
+  - first:
+      213: -8392434402693434257
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_86
+  - first:
+      213: -1895714961651996484
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_87
+  - first:
+      213: 7119272732336424835
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_88
+  - first:
+      213: 8047064865301082225
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_89
+  - first:
+      213: -7606487214501787136
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_90
+  - first:
+      213: 7441073293879934273
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_91
+  - first:
+      213: 1749713845756356472
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_92
+  - first:
+      213: 4365403412832058877
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_93
+  - first:
+      213: 1040983985459621867
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_94
+  - first:
+      213: 4063111906384355465
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_95
+  - first:
+      213: 2587682622332740457
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_96
+  - first:
+      213: -2406751027949996597
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_97
+  - first:
+      213: -989600241007584073
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_98
+  - first:
+      213: 3460683719873356664
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_99
+  - first:
+      213: 5467418083928620903
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_100
+  - first:
+      213: -3735691252132536755
+    second: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906cee17a657a8410800000000000000
+      internalID: 1480124527583086089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 180
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd287c55522a4eab0800000000000000
+      internalID: -4979677006728297761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 181
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cabc2661d1572390800000000000000
+      internalID: -7843210266238207288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 180
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b5bf55cebb38b0800000000000000
+      internalID: -5171329992181303924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 180
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af725b348e16640800000000000000
+      internalID: 5071590032895638152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 184
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d1a2804575b7680800000000000000
+      internalID: -8756309032065950338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaa736e824b7f1a0800000000000000
+      internalID: -6775749026601522458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 181
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c031ea1807f28aa0800000000000000
+      internalID: -6160089726106652477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2f0ed37b2912e40800000000000000
+      internalID: 5629942324904653527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 181
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7417031ab241e4b0800000000000000
+      internalID: -5412971910172044162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 181
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b424aaaf2224100800000000000000
+      internalID: 90673402494471031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 181
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1575f062c659a70800000000000000
+      internalID: 8833085154879033832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 181
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b344f3221e9b5d0800000000000000
+      internalID: -3046156135732856034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 190
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2e15b024ba98e0800000000000000
+      internalID: -1685837057926223274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 190
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ccdf88f41756b60800000000000000
+      internalID: 7738716121120754701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 190
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e2e5cfc292e6bd0800000000000000
+      internalID: -2635123458775830999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 190
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620d3fa445adf53d0800000000000000
+      internalID: -3215611553349644250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 181
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9fd19c8d896cf20800000000000000
+      internalID: 3442607022025865722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 182
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c43b847c9261c4e0800000000000000
+      internalID: -1963179538447125304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 183
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46431d4719791980800000000000000
+      internalID: -8567683675111340465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 183
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c78a51ed895fc090800000000000000
+      internalID: -8012086746162755640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 183
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c576f103e01331ae0800000000000000
+      internalID: -1579865107270244516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629da95f0fb0c9ea0800000000000000
+      internalID: -5864799485202605786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 146
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5dc70b34c37fd40800000000000000
+      internalID: 5618025321589429703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 145
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e81abb0991ee00800000000000000
+      internalID: 1072306461936771614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 146
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f014bc3bb4d93dd0800000000000000
+      internalID: -2505737817012563724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 147
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361c4e3403a255a10800000000000000
+      internalID: 1897469204792394083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 147
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1842d9172c29a80d0800000000000000
+      internalID: -3419759603207035775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 146
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc1f1fdb7a679cc0800000000000000
+      internalID: -3704375088232063780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 145
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333454adb79b0dc20800000000000000
+      internalID: 3229284874418733875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 141
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84122bf34dd9e0a30800000000000000
+      internalID: 4183454638801035592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 148
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05435ffc2f2a27b70800000000000000
+      internalID: 8895351377764889680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 148
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce763d8c0eb31d920800000000000000
+      internalID: 3013255462315583468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 149
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691a56069c6b38020800000000000000
+      internalID: 2342917207184744854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 147
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5854388b09c81ed0800000000000000
+      internalID: -2442981746481538982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 145
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125973b95dff279e0800000000000000
+      internalID: -1624955222630099679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_36
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 148
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9a99413b5fdf30800000000000000
+      internalID: 4602497611442330518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 145
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f03d28e49e5e2a20800000000000000
+      internalID: 3039470792165110007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0a106a87a1cc880800000000000000
+      internalID: -8589461283818856206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_39
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 106
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747e0970e289a42e0800000000000000
+      internalID: -2140731349398395065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 106
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3ab81c2bc341090800000000000000
+      internalID: -8064754294264716318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 106
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3e22ae6deea430800000000000000
+      internalID: 3796232595343031758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 106
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c1f10f21825480800000000000000
+      internalID: -8911918673716721181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 106
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe8869f1b7befcc0800000000000000
+      internalID: -3675298270866272519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 106
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b427454989894b0800000000000000
+      internalID: -5433425187583145084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 106
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34459c0f8927420b0800000000000000
+      internalID: -5754348422672329661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 106
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937fcd9a808f46fd0800000000000000
+      internalID: -2349480389487298759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 106
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd36ad062b0df90800000000000000
+      internalID: -6930843697472610405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 106
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00c2617f9f645b40800000000000000
+      internalID: 5428086181481070604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_49
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 106
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986413bbe93a78160800000000000000
+      internalID: 7027765645675677321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_50
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 107
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c97b5319a245be90800000000000000
+      internalID: -7010623950990640703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_51
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 107
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ec5cfa783e793f0800000000000000
+      internalID: -893995829100687862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 106
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca9c6e0ed4c34740800000000000000
+      internalID: 5135164458136279756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 128
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a815dc63aae4880800000000000000
+      internalID: -8624769084018292167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_54
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 107
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ade4636ce18c4210800000000000000
+      internalID: 1318571643192536489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 108
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e52d12cf11f8b860800000000000000
+      internalID: 7546046294362236390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a945ed1d3bf084f20800000000000000
+      internalID: 3406990383100351642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 73
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b34cb9156e61a3e0800000000000000
+      internalID: -2044231375346973772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f4b24ca5a706430800000000000000
+      internalID: 3774151017993293665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 71
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d18fd9bd7ebfe750800000000000000
+      internalID: 6336492647932199376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 71
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f4be07a6277210800000000000000
+      internalID: 1330574713859404373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_61
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 71
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c2d5e38f1289310800000000000000
+      internalID: 1411915833262550120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2f854de88767f20800000000000000
+      internalID: 3420053521877758648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_63
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 70
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa97734ae65c260800000000000000
+      internalID: 7117216437713350492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 71
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936cb375bbd332af0800000000000000
+      internalID: -422426065210980807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_65
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 71
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c54e222c03bb410800000000000000
+      internalID: 1493841311770631322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 71
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b31d0dab6784bf0800000000000000
+      internalID: -339891227127104679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 71
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39aaeb54e2f71e60800000000000000
+      internalID: 7933076331244988733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 71
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a9b1deb5c23600800000000000000
+      internalID: 446636736416163281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 71
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861cc161fc9da42b0800000000000000
+      internalID: -5599423703229349528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_70
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 71
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ce578487171a540800000000000000
+      internalID: 5017416221293145205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 71
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e41cfcf4c1104c60800000000000000
+      internalID: 7800254092361340131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_72
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc24c847a16e8e0800000000000000
+      internalID: -1664613924395102937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_73
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d26fcb1fad1ee0800000000000000
+      internalID: -1288681384379755428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_74
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 72
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e27431f5e0f25a0800000000000000
+      internalID: -6543995932037927392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_75
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 71
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef4d16d3ec735210800000000000000
+      internalID: 1320536433741352930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_76
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 71
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011f7bc69b1d146a0800000000000000
+      internalID: -6466656995604172528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 87
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b591a5ee028b070800000000000000
+      internalID: 8122278136048606096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0b37ee56bb87730800000000000000
+      internalID: 3997150715757965484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adc79a8b15418970800000000000000
+      internalID: 8755355135176592800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd51f1ed1ecab700800000000000000
+      internalID: 556984131673742812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d71b4c9e5c3c7c0800000000000000
+      internalID: -4052177631885296250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 35
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9867a49b279fd1c0800000000000000
+      internalID: -4476693291149596514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_83
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70464b3d5971d560800000000000000
+      internalID: 7336778709296627835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 36
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f70fe9e125e9b30800000000000000
+      internalID: 4295961386027089735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 35
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55c8348d7248e600800000000000000
+      internalID: 497720865681098079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_86
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 35
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b0b23065188b80800000000000000
+      internalID: -8392434402693434257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 37
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e65b494111b5e0800000000000000
+      internalID: -1895714961651996484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 36
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387890e94dcbcc260800000000000000
+      internalID: 7119272732336424835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 35
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1703ccc1cdaecaf60800000000000000
+      internalID: 8047064865301082225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_90
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 35
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a0217ed24507690800000000000000
+      internalID: -7606487214501787136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_91
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dfb5d7cb0044760800000000000000
+      internalID: 7441073293879934273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_92
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 34
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e3eae87b384810800000000000000
+      internalID: 1749713845756356472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 36
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf12b6647059c30800000000000000
+      internalID: 4365403412832058877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_94
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 36
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe03e5b61527e00800000000000000
+      internalID: 1040983985459621867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_95
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 35
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98023b660c2136830800000000000000
+      internalID: 4063111906384355465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_96
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 35
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963289782ab49e320800000000000000
+      internalID: 2587682622332740457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_97
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5fb3c01b0899ed0800000000000000
+      internalID: -2406751027949996597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_98
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 34
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc1a1de2db3442f0800000000000000
+      internalID: -989600241007584073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_99
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 36
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873670bf181d60030800000000000000
+      internalID: 3460683719873356664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fbc1b97cb20eb40800000000000000
+      internalID: 5467418083928620903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_101
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e1b164998282cc0800000000000000
+      internalID: -3735691252132536755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_0: 1480124527583086089
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_1: -4979677006728297761
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_10: 90673402494471031
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_100: 5467418083928620903
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_101: -3735691252132536755
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_11: 8833085154879033832
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_12: -3046156135732856034
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_13: -1685837057926223274
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_14: 7738716121120754701
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_15: -2635123458775830999
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_16: -3215611553349644250
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_17: 3442607022025865722
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_18: -1963179538447125304
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_19: -8567683675111340465
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_2: -7843210266238207288
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_20: -8012086746162755640
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_21: -1579865107270244516
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_22: -5864799485202605786
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_23: 5618025321589429703
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_24: 1072306461936771614
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_25: -2505737817012563724
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_26: 1897469204792394083
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_27: -3419759603207035775
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_28: -3704375088232063780
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_29: 3229284874418733875
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_3: -5171329992181303924
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_30: 4183454638801035592
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_31: 8895351377764889680
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_32: 3013255462315583468
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_33: 2342917207184744854
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_34: -2442981746481538982
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_35: -1624955222630099679
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_36: 4602497611442330518
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_37: 3039470792165110007
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_38: -8589461283818856206
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_39: -2140731349398395065
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_4: 5071590032895638152
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_40: -8064754294264716318
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_41: 3796232595343031758
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_42: -8911918673716721181
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_43: -3675298270866272519
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_44: -5433425187583145084
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_45: -5754348422672329661
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_46: -2349480389487298759
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_47: -6930843697472610405
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_48: 5428086181481070604
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_49: 7027765645675677321
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_5: -8756309032065950338
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_50: -7010623950990640703
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_51: -893995829100687862
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_52: 5135164458136279756
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_53: -8624769084018292167
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_54: 1318571643192536489
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_55: 7546046294362236390
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_56: 3406990383100351642
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_57: -2044231375346973772
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_58: 3774151017993293665
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_59: 6336492647932199376
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_6: -6775749026601522458
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_60: 1330574713859404373
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_61: 1411915833262550120
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_62: 3420053521877758648
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_63: 7117216437713350492
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_64: -422426065210980807
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_65: 1493841311770631322
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_66: -339891227127104679
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_67: 7933076331244988733
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_68: 446636736416163281
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_69: -5599423703229349528
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_7: -6160089726106652477
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_70: 5017416221293145205
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_71: 7800254092361340131
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_72: -1664613924395102937
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_73: -1288681384379755428
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_74: -6543995932037927392
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_75: 1320536433741352930
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_76: -6466656995604172528
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_77: 8122278136048606096
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_78: 3997150715757965484
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_79: 8755355135176592800
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_8: 5629942324904653527
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_80: 556984131673742812
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_81: -4052177631885296250
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_82: -4476693291149596514
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_83: 7336778709296627835
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_84: 4295961386027089735
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_85: 497720865681098079
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_86: -8392434402693434257
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_87: -1895714961651996484
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_88: 7119272732336424835
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_89: 8047064865301082225
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_9: -5412971910172044162
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_90: -7606487214501787136
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_91: 7441073293879934273
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_92: 1749713845756356472
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_93: 4365403412832058877
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_94: 1040983985459621867
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_95: 4063111906384355465
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_96: 2587682622332740457
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_97: -2406751027949996597
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_98: -989600241007584073
+      Nintendo Switch - Octopath Traveler - Primrose - Primrose (Sorcerer)_99: 3460683719873356664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

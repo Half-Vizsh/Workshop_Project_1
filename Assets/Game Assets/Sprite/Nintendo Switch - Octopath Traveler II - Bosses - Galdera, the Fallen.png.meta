@@ -1,0 +1,4879 @@
+fileFormatVersion: 2
+guid: 8ccf4986a2d27704da30e0a22cf5117f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6214028846229979331
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_0
+  - first:
+      213: -7370070726110104050
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_1
+  - first:
+      213: -4637726836744740310
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_2
+  - first:
+      213: 7416608644434044403
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_3
+  - first:
+      213: -8634924893172774934
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_4
+  - first:
+      213: -7573246335803695373
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_5
+  - first:
+      213: -7548182040166770403
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_6
+  - first:
+      213: -6673095236032670583
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_7
+  - first:
+      213: 154285504805548043
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_8
+  - first:
+      213: 8352927749150680440
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_9
+  - first:
+      213: 8666913841688488198
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_10
+  - first:
+      213: -5099583662132263722
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_11
+  - first:
+      213: -6652005725063736542
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_12
+  - first:
+      213: -1531854540376875009
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_13
+  - first:
+      213: -6710126471874455236
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_14
+  - first:
+      213: 7756887455700417947
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_15
+  - first:
+      213: 5758356013681002558
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_16
+  - first:
+      213: 5592389201137636144
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_17
+  - first:
+      213: -6080658602952147141
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_18
+  - first:
+      213: -99848888748305247
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_19
+  - first:
+      213: 6252041100535763071
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_20
+  - first:
+      213: 6045126002261670569
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_21
+  - first:
+      213: 1448899231184138078
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_22
+  - first:
+      213: -5804894758086998941
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_23
+  - first:
+      213: 3052017345487655408
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_24
+  - first:
+      213: -8301911951907508465
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_25
+  - first:
+      213: -1912835409938435623
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_26
+  - first:
+      213: -1376773006799945413
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_27
+  - first:
+      213: 4833035164046851425
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_28
+  - first:
+      213: -4585068799432968835
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_29
+  - first:
+      213: -3908623369049722681
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_30
+  - first:
+      213: 136741355921225752
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_31
+  - first:
+      213: 3543672708383318474
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_32
+  - first:
+      213: 7870448758001004368
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_33
+  - first:
+      213: 3572359416326099707
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_34
+  - first:
+      213: -5018233130866700255
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_35
+  - first:
+      213: 5296196704569859636
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_36
+  - first:
+      213: 3697533586654899908
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_37
+  - first:
+      213: 8908000611172860580
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_38
+  - first:
+      213: -876506085195846071
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_39
+  - first:
+      213: 7233599520388291564
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_40
+  - first:
+      213: -234458346071047872
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_41
+  - first:
+      213: -2771321271462255615
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_42
+  - first:
+      213: 720309923359613719
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_43
+  - first:
+      213: -2198881041495793849
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_44
+  - first:
+      213: -3657116519205599247
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_45
+  - first:
+      213: 6094750210879736870
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_46
+  - first:
+      213: 7117533177499891828
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_47
+  - first:
+      213: 32456194573748610
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_48
+  - first:
+      213: -236610575534606143
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_49
+  - first:
+      213: 3941921965189204333
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_50
+  - first:
+      213: 7175110331502833010
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_51
+  - first:
+      213: 1703670327248932735
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_52
+  - first:
+      213: 8331229514749964095
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_53
+  - first:
+      213: 2796386064480734420
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_54
+  - first:
+      213: -5583370930653287123
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_55
+  - first:
+      213: -3450732799100380039
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_56
+  - first:
+      213: -2880812196313464305
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_57
+  - first:
+      213: 2047110038334680001
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_58
+  - first:
+      213: 7291858224634866380
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_59
+  - first:
+      213: 3352264025767827479
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_60
+  - first:
+      213: -5775359050524168354
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_61
+  - first:
+      213: -3581170137945316405
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_62
+  - first:
+      213: 2822386446188723472
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_63
+  - first:
+      213: 5798997025585424727
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_64
+  - first:
+      213: 755230186431868968
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_65
+  - first:
+      213: -6192194649887676274
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_66
+  - first:
+      213: 3367427899161836762
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_67
+  - first:
+      213: -3962226545354845183
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_68
+  - first:
+      213: -5351074585570191342
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_69
+  - first:
+      213: 4082362444666032695
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_70
+  - first:
+      213: 1331080390784327438
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_71
+  - first:
+      213: -2987800545141495226
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_72
+  - first:
+      213: 155107114420856258
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_73
+  - first:
+      213: -7211939556423155775
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_74
+  - first:
+      213: -1849224781435350633
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_75
+  - first:
+      213: 3934036600128491880
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_76
+  - first:
+      213: -8991369040085141637
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_77
+  - first:
+      213: -4148501086373118618
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_78
+  - first:
+      213: 4937739752655446317
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_79
+  - first:
+      213: 1834847445789158780
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_80
+  - first:
+      213: -6272626574768518408
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_81
+  - first:
+      213: -8713651864007671621
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_82
+  - first:
+      213: 3855779184611745417
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_83
+  - first:
+      213: -5278409544593550042
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_84
+  - first:
+      213: 473400329438419214
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_85
+  - first:
+      213: -5752041438303125304
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_86
+  - first:
+      213: 3456935005083555956
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_87
+  - first:
+      213: -822837310838720382
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_88
+  - first:
+      213: -5586793912610887717
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_89
+  - first:
+      213: 8856845940853632824
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_90
+  - first:
+      213: -5302767935043946773
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_91
+  - first:
+      213: 7702322451954735405
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_92
+  - first:
+      213: 325594851930186343
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_93
+  - first:
+      213: 7844242334508183078
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_94
+  - first:
+      213: -145782984887339533
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_95
+  - first:
+      213: 1541154420114872485
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_96
+  - first:
+      213: -4923913180204944945
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_97
+  - first:
+      213: 8836471624814518182
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_98
+  - first:
+      213: -4261025714301675079
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_99
+  - first:
+      213: -8213576946663763177
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_100
+  - first:
+      213: -7347368029880637618
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_101
+  - first:
+      213: 5108551028754790020
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_102
+  - first:
+      213: -6493751062303424027
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_103
+  - first:
+      213: 3333528725053870135
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_104
+  - first:
+      213: -4805793819518290836
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_105
+  - first:
+      213: -1863843193291025698
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_106
+  - first:
+      213: -2102410741233621713
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_107
+  - first:
+      213: -5845109246042718791
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_108
+  - first:
+      213: -5576929184706090739
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_109
+  - first:
+      213: 8321065993832192957
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_110
+  - first:
+      213: 5596018718735938582
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_111
+  - first:
+      213: 2866790090577156856
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_112
+  - first:
+      213: -5099269414266066752
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_113
+  - first:
+      213: -3489496143441533082
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_114
+  - first:
+      213: 656846641384829905
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_115
+  - first:
+      213: 915708362886114196
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_116
+  - first:
+      213: -1572521797095094504
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_117
+  - first:
+      213: 5959905566016288287
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_118
+  - first:
+      213: -4304697699085097194
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_119
+  - first:
+      213: -3803562553129727300
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_120
+  - first:
+      213: -4299479847392138162
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_121
+  - first:
+      213: -8344045709349060584
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_122
+  - first:
+      213: 1088436622017260703
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_123
+  - first:
+      213: 5271923698639390697
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_124
+  - first:
+      213: 8288207583551282096
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_125
+  - first:
+      213: 1692348108270375453
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_126
+  - first:
+      213: -7659104888069957559
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_127
+  - first:
+      213: -9101459328721107528
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_128
+  - first:
+      213: -2806084255260570769
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_129
+  - first:
+      213: 1589453322283599920
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_130
+  - first:
+      213: 1215106045496933323
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_131
+  - first:
+      213: -5110830636970171120
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_132
+  - first:
+      213: -6419529919697208949
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_133
+  - first:
+      213: -5423121797869957032
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_134
+  - first:
+      213: -5377813779481869154
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_135
+  - first:
+      213: 1184372622074122523
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_136
+  - first:
+      213: -3385685326152667372
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_137
+  - first:
+      213: -1643716606921590260
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_138
+  - first:
+      213: 2854395016837200553
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_139
+  - first:
+      213: 1817058496454933436
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_140
+  - first:
+      213: 4952581870332370873
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_141
+  - first:
+      213: 8513180597879290143
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_142
+  - first:
+      213: 3041963143935145423
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_143
+  - first:
+      213: 7931380232757149157
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_144
+  - first:
+      213: -8909231727802317488
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_145
+  - first:
+      213: -3162984690642048037
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_146
+  - first:
+      213: -3144255698651459778
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_147
+  - first:
+      213: 330738457928235304
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_148
+  - first:
+      213: -3703383696130339879
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_149
+  - first:
+      213: 8539602244365537899
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_150
+  - first:
+      213: -2102121948561614415
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_151
+  - first:
+      213: -7450300384456468311
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_152
+  - first:
+      213: 6464297407749355022
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_153
+  - first:
+      213: -6144254575011356900
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_154
+  - first:
+      213: -1128427551321754166
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_155
+  - first:
+      213: -6899807666556177061
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_156
+  - first:
+      213: -5517542174792342035
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_157
+  - first:
+      213: -6286954999281053900
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_158
+  - first:
+      213: -3109225346340782370
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_159
+  - first:
+      213: -5013788129674573019
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_160
+  - first:
+      213: 3215675551394990136
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_161
+  - first:
+      213: -4479962199491878501
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_162
+  - first:
+      213: 3650726494368774590
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_163
+  - first:
+      213: -5274757500190072554
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_164
+  - first:
+      213: -3566771294669625765
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_165
+  - first:
+      213: 3724736087857383955
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_166
+  - first:
+      213: -2738007920867860632
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_167
+  - first:
+      213: -3026989559727573330
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_168
+  - first:
+      213: 6117432987750527903
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_169
+  - first:
+      213: 3321833206628864955
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_170
+  - first:
+      213: 1555266364199343746
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_171
+  - first:
+      213: 4155850873404065926
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_172
+  - first:
+      213: -6610853906467797737
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_173
+  - first:
+      213: 5555853825165261940
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_174
+  - first:
+      213: -9118629122336997461
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_175
+  - first:
+      213: 7783708875414281405
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_176
+  - first:
+      213: 2559420436373008141
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_177
+  - first:
+      213: 3635337383505583105
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_178
+  - first:
+      213: 5068241358987675169
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_179
+  - first:
+      213: 5564435105511875899
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_180
+  - first:
+      213: 7286859353387845959
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_181
+  - first:
+      213: 8591505563754179038
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_182
+  - first:
+      213: 3251553171640176253
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_183
+  - first:
+      213: -2083825162877211260
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_184
+  - first:
+      213: 7439903793475878110
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_185
+  - first:
+      213: -1236142063475599525
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_186
+  - first:
+      213: 5648059841738605748
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_187
+  - first:
+      213: 4932845354572264072
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_188
+  - first:
+      213: 4727723225938929388
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_189
+  - first:
+      213: 9122588759380007366
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_190
+  - first:
+      213: 7414987876348983819
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_191
+  - first:
+      213: -4838296665433967160
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_192
+  - first:
+      213: 249084447920472527
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_193
+  - first:
+      213: 6953310727891195218
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_194
+  - first:
+      213: 7067555105576220681
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_195
+  - first:
+      213: -328686714481189358
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_196
+  - first:
+      213: -5663723180304052855
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_197
+  - first:
+      213: -3727447983277968054
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_198
+  - first:
+      213: 8883276475326713497
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_199
+  - first:
+      213: -6335351777737637398
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_200
+  - first:
+      213: -3092361091254365061
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_201
+  - first:
+      213: -6949409275518655989
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_202
+  - first:
+      213: -573801273689986201
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_203
+  - first:
+      213: 8474474943519458529
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_204
+  - first:
+      213: -503399145091535036
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_205
+  - first:
+      213: -7792566447019150360
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_206
+  - first:
+      213: 6176700221815743872
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_207
+  - first:
+      213: 7075351729341137117
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_208
+  - first:
+      213: 1552687469563314728
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_209
+  - first:
+      213: -8438494425069319842
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_210
+  - first:
+      213: -7634205219635881916
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_211
+  - first:
+      213: -8584194698528244775
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_212
+  - first:
+      213: -9030746028261643278
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_213
+  - first:
+      213: 596957715746288862
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_214
+  - first:
+      213: 6643519664813289948
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_215
+  - first:
+      213: -4896551875759242571
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_216
+  - first:
+      213: 4433855497016361773
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_217
+  - first:
+      213: 8672683026415830024
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_218
+  - first:
+      213: -626572369635705775
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_219
+  - first:
+      213: 9101662686917929649
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_220
+  - first:
+      213: 8262451174605702384
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_221
+  - first:
+      213: -2812119573749841884
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_222
+  - first:
+      213: 1002306694346844725
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_223
+  - first:
+      213: -3500956928801966686
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_224
+  - first:
+      213: 757173362640065338
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_225
+  - first:
+      213: 7699775368387207626
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_226
+  - first:
+      213: -1734257955352932768
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_227
+  - first:
+      213: 5354329750240660342
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_228
+  - first:
+      213: 4616628268942383411
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_229
+  - first:
+      213: -4727119389759330461
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_230
+  - first:
+      213: 3167217109091295850
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_231
+  - first:
+      213: 6499654853339133659
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_232
+  - first:
+      213: 5329705420061250888
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_233
+  - first:
+      213: -6195196675235417893
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_234
+  - first:
+      213: 2996763882231427148
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_235
+  - first:
+      213: -8405860548424374519
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_236
+  - first:
+      213: 944095340048105767
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_237
+  - first:
+      213: -5961892866112113917
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_238
+  - first:
+      213: -8740526496876748784
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_239
+  - first:
+      213: 2723959198429511018
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_240
+  - first:
+      213: 5296303203093813602
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_241
+  - first:
+      213: -1695730363470472576
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_242
+  - first:
+      213: 6293313795296408171
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_243
+  - first:
+      213: -4917330072845928531
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_244
+  - first:
+      213: -2712001331869374753
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_245
+  - first:
+      213: -2995975091764882149
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_246
+  - first:
+      213: 3876225011172547445
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_247
+  - first:
+      213: 8195202804119478912
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_248
+  - first:
+      213: -4022420415806875137
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_249
+  - first:
+      213: -5392526446907677479
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_250
+  - first:
+      213: 1378029175589095216
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_251
+  - first:
+      213: -3051241207781637825
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_252
+  - first:
+      213: -3971168947049435240
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_253
+  - first:
+      213: 7553571306424855209
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_254
+  - first:
+      213: 6878873178100391695
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_255
+  - first:
+      213: -4512627992080393500
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_256
+  - first:
+      213: -3314585204881955258
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_257
+  - first:
+      213: 350671899275947335
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_258
+  - first:
+      213: 736552809136097967
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_259
+  - first:
+      213: -3637431613636154003
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_260
+  - first:
+      213: 5764728034139996081
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_261
+  - first:
+      213: -230427028378362683
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_262
+  - first:
+      213: -7711605878848752456
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_263
+  - first:
+      213: -6502545955717284867
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_264
+  - first:
+      213: 1404561285997845090
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_265
+  - first:
+      213: 4313703833308526535
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_266
+  - first:
+      213: 4977573551413833677
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_267
+  - first:
+      213: -452251274086482699
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_268
+  - first:
+      213: -2022704830160529093
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_269
+  - first:
+      213: -8419780186471559782
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_270
+  - first:
+      213: 4624963808567490252
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_271
+  - first:
+      213: -3346496124545731669
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_272
+  - first:
+      213: 8009283950252954842
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_273
+  - first:
+      213: 8860949890047610177
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_274
+  - first:
+      213: 4567266562979758875
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_275
+  - first:
+      213: 2204244061884161437
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_276
+  - first:
+      213: -1213710734139370748
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_277
+  - first:
+      213: -4828380940813319684
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_278
+  - first:
+      213: 7732914259470121748
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_279
+  - first:
+      213: 169195628302733719
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_280
+  - first:
+      213: 7619186605603687591
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_281
+  - first:
+      213: 2261675902037375879
+    second: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_282
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5887
+        width: 180
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c08193ff4aac3650800000000000000
+      internalID: 6214028846229979331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5885
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b3b019bf38b990800000000000000
+      internalID: -7370070726110104050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5879
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22a882830c73afb0800000000000000
+      internalID: -4637726836744740310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 5877
+        width: 170
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5259964461de660800000000000000
+      internalID: 7416608644434044403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 5885
+        width: 180
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae742483f859a2880800000000000000
+      internalID: -8634924893172774934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 5885
+        width: 180
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe54e5159c66e690800000000000000
+      internalID: -7573246335803695373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_6
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 5869
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1950eb2d687f3790800000000000000
+      internalID: -7548182040166770403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 5867
+        width: 188
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984dbe70d376463a0800000000000000
+      internalID: -6673095236032670583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_8
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 5887
+        width: 180
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003de369d1242200800000000000000
+      internalID: 154285504805548043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_9
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 5863
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87521aa388f8be370800000000000000
+      internalID: 8352927749150680440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_10
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 5863
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60922c04830174870800000000000000
+      internalID: 8666913841688488198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_11
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 5863
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d488349da3aa39b0800000000000000
+      internalID: -5099583662132263722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_12
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 5863
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22316b179045fa3a0800000000000000
+      internalID: -6652005725063736542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_13
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 5863
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff54416962cdbae0800000000000000
+      internalID: -1531854540376875009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_14
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 5863
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395afd8687d0e2a0800000000000000
+      internalID: -6710126471874455236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_15
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 5863
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df4bf0b0006ab60800000000000000
+      internalID: 7756887455700417947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_16
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 5863
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c0bd094ac9ef40800000000000000
+      internalID: 5758356013681002558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_17
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 5877
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331a8349582c9d40800000000000000
+      internalID: 5592389201137636144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_18
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 5861
+        width: 136
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f3d92a7392d9ba0800000000000000
+      internalID: -6080658602952147141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_19
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 5857
+        width: 232
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a490f6f6f34d9ef0800000000000000
+      internalID: -99848888748305247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_20
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 5857
+        width: 138
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7093969146b3c650800000000000000
+      internalID: 6252041100535763071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_21
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 5855
+        width: 138
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aab843121a94e350800000000000000
+      internalID: 6045126002261670569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_22
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 5851
+        width: 230
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f21169c268b1410800000000000000
+      internalID: 1448899231184138078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_23
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 5851
+        width: 230
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36482b129fed07fa0800000000000000
+      internalID: -5804894758086998941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_24
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5873
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f15f1efa91fa5a20800000000000000
+      internalID: 3052017345487655408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 5873
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fabfda01fa9cc80800000000000000
+      internalID: -8301911951907508465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5685
+        width: 230
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1b4dc445e3475e0800000000000000
+      internalID: -1912835409938435623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5685
+        width: 230
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31c759ae38b4ece0800000000000000
+      internalID: -1376773006799945413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_28
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5685
+        width: 220
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dfbfb00e3621340800000000000000
+      internalID: 4833035164046851425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 5685
+        width: 154
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75321b38309e50c0800000000000000
+      internalID: -4585068799432968835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_30
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 5683
+        width: 162
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0300f21c7c1c9c0800000000000000
+      internalID: -3908623369049722681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_31
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 5683
+        width: 230
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8183ac9e98dc5e100800000000000000
+      internalID: 136741355921225752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_32
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 5683
+        width: 230
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac12f679d87ad2130800000000000000
+      internalID: 3543672708383318474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_33
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 5683
+        width: 250
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f609b2273793d60800000000000000
+      internalID: 7870448758001004368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_34
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 5825
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2932446f1939130800000000000000
+      internalID: 3572359416326099707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_35
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 5683
+        width: 402
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12018922e87ab5ab0800000000000000
+      internalID: -5018233130866700255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_36
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 5683
+        width: 382
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e1b74a7dedf7940800000000000000
+      internalID: 5296196704569859636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_37
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 5679
+        width: 158
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce24a9e437405330800000000000000
+      internalID: 3697533586654899908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_38
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 5679
+        width: 150
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2cbe7fb539f9b70800000000000000
+      internalID: 8908000611172860580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_39
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 5677
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eee640c5606d3f0800000000000000
+      internalID: -876506085195846071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_40
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 5675
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb1e244078e26460800000000000000
+      internalID: 7233599520388291564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_41
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 5675
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0414fcf50690fbcf0800000000000000
+      internalID: -234458346071047872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_42
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 5675
+        width: 168
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10422089cf94a89d0800000000000000
+      internalID: -2771321271462255615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_43
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 5675
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e9061f0e0ff900800000000000000
+      internalID: 720309923359613719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_44
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 5675
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f5d4ac7510c71e0800000000000000
+      internalID: -2198881041495793849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_45
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 5675
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7898ae6ef4f3dc0800000000000000
+      internalID: -3657116519205599247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5499
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c49328607e49450800000000000000
+      internalID: 6094750210879736870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 5499
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47830f1f6be86c260800000000000000
+      internalID: 7117533177499891828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5493
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289445cacbe437000800000000000000
+      internalID: 32456194573748610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_49
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 5493
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b8276fe367bcf0800000000000000
+      internalID: -236610575534606143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_50
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 5483
+        width: 438
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d698963642584b630800000000000000
+      internalID: 3941921965189204333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_51
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 5483
+        width: 390
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d2675c4dc139360800000000000000
+      internalID: 7175110331502833010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_52
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 5479
+        width: 438
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fcb0ed227a4a710800000000000000
+      internalID: 1703670327248932735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_53
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 5479
+        width: 436
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3febe85a197e9370800000000000000
+      internalID: 8331229514749964095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_55
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 5479
+        width: 442
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d2b2578b1e382b0800000000000000
+      internalID: -5583370930653287123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_57
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 5475
+        width: 446
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f028f16129c4508d0800000000000000
+      internalID: -2880812196313464305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_69
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 5475
+        width: 195
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d770040a2db5b0800000000000000
+      internalID: -5351074585570191342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_72
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 5471
+        width: 189
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a6f17fb333986d0800000000000000
+      internalID: -2987800545141495226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_80
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 5477
+        width: 202
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dab4fc700b67910800000000000000
+      internalID: 1834847445789158780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_81
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 5475
+        width: 205
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa4f323d5723f8a0800000000000000
+      internalID: -6272626574768518408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5265
+        width: 418
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0076debc3e21780800000000000000
+      internalID: -8713651864007671621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_90
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 5233
+        width: 390
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fe0f62576d9ea70800000000000000
+      internalID: 8856845940853632824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_91
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 5233
+        width: 390
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6bf5988a8c866b0800000000000000
+      internalID: -5302767935043946773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_92
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 5231
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29174e167524ea60800000000000000
+      internalID: 7702322451954735405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_93
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 5231
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762aef1faceb48400800000000000000
+      internalID: 325594851930186343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_94
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 5225
+        width: 388
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ee078b7d85cdc60800000000000000
+      internalID: 7844242334508183078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_95
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 5231
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f57e7bc5231afdf0800000000000000
+      internalID: -145782984887339533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_96
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 5231
+        width: 390
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a858fa97c7436510800000000000000
+      internalID: 1541154420114872485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_107
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 5254
+        width: 210
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25edc4e19cb2d2e0800000000000000
+      internalID: -2102410741233621713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_108
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 5254
+        width: 213
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb5440c1002eea0800000000000000
+      internalID: -5845109246042718791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_110
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 5251
+        width: 207
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb53fa3f6d5a7370800000000000000
+      internalID: 8321065993832192957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4991
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c828ac1c71cb39b0800000000000000
+      internalID: -5099269414266066752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4991
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6676215eeb1d29fc0800000000000000
+      internalID: -3489496143441533082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_115
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 4991
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b6ab4a869d1900800000000000000
+      internalID: 656846641384829905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_116
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 4991
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6ea787ef35bc00800000000000000
+      internalID: 915708362886114196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_117
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 4991
+        width: 390
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178692d1c74d2ae0800000000000000
+      internalID: -1572521797095094504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_118
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 4991
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16364d0986d5b250800000000000000
+      internalID: 5959905566016288287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_119
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 4991
+        width: 394
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617679cff34a244c0800000000000000
+      internalID: -4304697699085097194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_120
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 5197
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba89b39208073bc0800000000000000
+      internalID: -3803562553129727300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_121
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 5191
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cad31cbdd2554c0800000000000000
+      internalID: -4299479847392138162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_122
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 4989
+        width: 388
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81080a0d2aef33c80800000000000000
+      internalID: -8344045709349060584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_123
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 4989
+        width: 390
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c6dd74757ea1f00800000000000000
+      internalID: 1088436622017260703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_124
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 5123
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e74d5c0ca2a92940800000000000000
+      internalID: 5271923698639390697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_125
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 5113
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd54a62e0a50370800000000000000
+      internalID: 8288207583551282096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_126
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 5115
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1292c553ad6c7710800000000000000
+      internalID: 1692348108270375453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_127
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 5105
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d1291fa465b590800000000000000
+      internalID: -7659104888069957559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_128
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 4991
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c9ed46fe11b180800000000000000
+      internalID: -9101459328721107528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4747
+        width: 390
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8063bc39ce09d0800000000000000
+      internalID: -2806084255260570769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_130
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4745
+        width: 418
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03847c5106fde0610800000000000000
+      internalID: 1589453322283599920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_131
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 4971
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb364ea28cecd010800000000000000
+      internalID: 1215106045496933323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_132
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 4735
+        width: 366
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015a5303d9ea219b0800000000000000
+      internalID: -5110830636970171120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_133
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 4977
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b477dc8f39e6a0800000000000000
+      internalID: -6419529919697208949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_134
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 4977
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850984035733db4b0800000000000000
+      internalID: -5423121797869957032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_135
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 4699
+        width: 330
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9448c54cda2e55b0800000000000000
+      internalID: -5377813779481869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_136
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 4697
+        width: 358
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111d6cef9cbf6010800000000000000
+      internalID: 1184372622074122523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_137
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 4695
+        width: 356
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fea6d4221a301d0800000000000000
+      internalID: -3385685326152667372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_138
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 4695
+        width: 336
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a370d64785039e0800000000000000
+      internalID: -1643716606921590260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_139
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 4673
+        width: 342
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf9330529dc9720800000000000000
+      internalID: 2854395016837200553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_140
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 4941
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb3d49431d773910800000000000000
+      internalID: 1817058496454933436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_141
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 4729
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf533e98fa1bb440800000000000000
+      internalID: 4952581870332370873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_142
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 4729
+        width: 388
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19b75526a4e42670800000000000000
+      internalID: 8513180597879290143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_143
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 4691
+        width: 356
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5b516cc59373a20800000000000000
+      internalID: 3041963143935145423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4643
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7b08ac4ce11e60800000000000000
+      internalID: 7931380232757149157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_145
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 4653
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05504ba52fc0c5480800000000000000
+      internalID: -8909231727802317488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_146
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 4661
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb284c9e22da14d0800000000000000
+      internalID: -3162984690642048037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_147
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 4639
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fc1eed91c5d54d0800000000000000
+      internalID: -3144255698651459778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_148
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 4657
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8297f5a00e4079400800000000000000
+      internalID: 330738457928235304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_149
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 4671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db8d255620fa9cc0800000000000000
+      internalID: -3703383696130339879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_150
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 4647
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62598a1ff2c28670800000000000000
+      internalID: 8539602244365537899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_151
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 4657
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9de6da933c3d2e0800000000000000
+      internalID: -2102121948561614415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_152
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 4653
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8148216473b9890800000000000000
+      internalID: -7450300384456468311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_153
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 4523
+        width: 378
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06f0673e3cc5b950800000000000000
+      internalID: 6464297407749355022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_154
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 4303
+        width: 514
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f11e684093bbaa0800000000000000
+      internalID: -6144254575011356900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_158
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4393
+        width: 306
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8cf4ecbf30c8a0800000000000000
+      internalID: -6286954999281053900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_159
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4391
+        width: 306
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede77b85500d9d4d0800000000000000
+      internalID: -3109225346340782370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_160
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 4651
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b4daf92427b6ab0800000000000000
+      internalID: -5013788129674573019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_161
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 4623
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388ec960ef50ac20800000000000000
+      internalID: 3215675551394990136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_162
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 4649
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91eb1c8d1af3d1c0800000000000000
+      internalID: -4479962199491878501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_163
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 4391
+        width: 306
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb935fc776cf9a230800000000000000
+      internalID: 3650726494368774590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_164
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 4385
+        width: 312
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e7dc100c4cc6b0800000000000000
+      internalID: -5274757500190072554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_165
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 4365
+        width: 326
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b562822b768408ec0800000000000000
+      internalID: -3566771294669625765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_166
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 4325
+        width: 330
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a41d6ccbbe0b330800000000000000
+      internalID: 3724736087857383955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_170
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4601
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3d53c93b5891e20800000000000000
+      internalID: 3321833206628864955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_171
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 4599
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2861731a48a659510800000000000000
+      internalID: 1555266364199343746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_172
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 4599
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6880fb8c95c8ca930800000000000000
+      internalID: 4155850873404065926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_173
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 4593
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715cbfad5678144a0800000000000000
+      internalID: -6610853906467797737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_174
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 4317
+        width: 162
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c78f82e9b5a1d40800000000000000
+      internalID: 5555853825165261940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_175
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 4225
+        width: 506
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3294302f147180800000000000000
+      internalID: -9118629122336997461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_176
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 4221
+        width: 474
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc9f1a7bf9450c60800000000000000
+      internalID: 7783708875414281405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_178
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 4307
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c5c86e610537230800000000000000
+      internalID: 3635337383505583105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3705
+        width: 522
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126476ec9a2065640800000000000000
+      internalID: 5068241358987675169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_182
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 3623
+        width: 656
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed92c5d5ac82b3770800000000000000
+      internalID: 8591505563754179038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_187
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 3635
+        width: 661
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b48af85080f16e40800000000000000
+      internalID: 5648059841738605748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_190
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3641
+        width: 656
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c911d2a422f99e70800000000000000
+      internalID: 9122588759380007366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_191
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 4195
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0afb9fef2457e660800000000000000
+      internalID: 7414987876348983819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_192
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 3619
+        width: 658
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5f9d231daeadcb0800000000000000
+      internalID: -4838296665433967160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_193
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3696
+        width: 342
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1cf555cfce47300800000000000000
+      internalID: 249084447920472527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3049
+        width: 660
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085676d402c08b550800000000000000
+      internalID: 6176700221815743872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_209
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3045
+        width: 657
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822858ee6014c8510800000000000000
+      internalID: 1552687469563314728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_211
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3037
+        width: 655
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4489b2deccadd0690800000000000000
+      internalID: -7634205219635881916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_212
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 3035
+        width: 658
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbe671760ded880800000000000000
+      internalID: -8584194698528244775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 723
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a88ad5f5e56eb0800000000000000
+      internalID: -4727119389759330461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_234
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 2440
+        width: 724
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd079ea827d360aa0800000000000000
+      internalID: -6195196675235417893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_237
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 2446
+        width: 724
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214ba1b5b91a1d00800000000000000
+      internalID: 944095340048105767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_241
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2449
+        width: 724
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2699b23c3bf308940800000000000000
+      internalID: 5296303203093813602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_243
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2448
+        width: 723
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6235bcad87565750800000000000000
+      internalID: 6293313795296408171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_244
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1862
+        width: 723
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da73ca41a5222cbb0800000000000000
+      internalID: -4917330072845928531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_250
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1860
+        width: 724
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42b2274c5e925b0800000000000000
+      internalID: -5392526446907677479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_254
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1862
+        width: 724
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6909251da3d860800000000000000
+      internalID: 7553571306424855209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_255
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1861
+        width: 724
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fd2aba5baa67f50800000000000000
+      internalID: 6878873178100391695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_256
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1860
+        width: 724
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea509800ccef51c0800000000000000
+      internalID: -4512627992080393500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1274
+        width: 723
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ee3d415a3002d0800000000000000
+      internalID: -3314585204881955258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_261
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1268
+        width: 722
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf76adaa9d600050800000000000000
+      internalID: 5764728034139996081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_264
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1262
+        width: 724
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb71ddb7e052c5a0800000000000000
+      internalID: -6502545955717284867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_266
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1262
+        width: 724
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7789a08ca5ddb30800000000000000
+      internalID: 4313703833308526535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_270
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1262
+        width: 724
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d8d72c78ee62b80800000000000000
+      internalID: -8419780186471559782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 723
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3fa36518bde81d0800000000000000
+      internalID: -3346496124545731669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_273
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1030
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad490185151b62f60800000000000000
+      internalID: 8009283950252954842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_274
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 660
+        width: 722
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d03d84afa68fa70800000000000000
+      internalID: 8860949890047610177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_275
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 678
+        width: 724
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b138de89db0326f30800000000000000
+      internalID: 4567266562979758875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_276
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 674
+        width: 724
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d9ed2bb4c079e10800000000000000
+      internalID: 2204244061884161437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_277
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 674
+        width: 722
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4035b8f8488082fe0800000000000000
+      internalID: -1213710734139370748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_278
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 1018
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14e8ebd152efcb0800000000000000
+      internalID: -4828380940813319684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 723
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf44a5c84d05b60800000000000000
+      internalID: 7732914259470121748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_281
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 74
+        width: 724
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac0c6089d9ccb960800000000000000
+      internalID: 7619186605603687591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7bb102e32ee23964795e053d6a99518b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_0: 6214028846229979331
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_1: -7370070726110104050
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_10: 8666913841688488198
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_100: -8213576946663763177
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_101: -7347368029880637618
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_102: 5108551028754790020
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_103: -6493751062303424027
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_104: 3333528725053870135
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_105: -4805793819518290836
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_106: -1863843193291025698
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_107: -2102410741233621713
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_108: -5845109246042718791
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_109: -5576929184706090739
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_11: -5099583662132263722
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_110: 8321065993832192957
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_111: 5596018718735938582
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_112: 2866790090577156856
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_113: -5099269414266066752
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_114: -3489496143441533082
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_115: 656846641384829905
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_116: 915708362886114196
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_117: -1572521797095094504
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_118: 5959905566016288287
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_119: -4304697699085097194
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_12: -6652005725063736542
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_120: -3803562553129727300
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_121: -4299479847392138162
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_122: -8344045709349060584
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_123: 1088436622017260703
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_124: 5271923698639390697
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_125: 8288207583551282096
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_126: 1692348108270375453
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_127: -7659104888069957559
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_128: -9101459328721107528
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_129: -2806084255260570769
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_13: -1531854540376875009
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_130: 1589453322283599920
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_131: 1215106045496933323
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_132: -5110830636970171120
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_133: -6419529919697208949
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_134: -5423121797869957032
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_135: -5377813779481869154
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_136: 1184372622074122523
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_137: -3385685326152667372
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_138: -1643716606921590260
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_139: 2854395016837200553
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_14: -6710126471874455236
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_140: 1817058496454933436
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_141: 4952581870332370873
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_142: 8513180597879290143
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_143: 3041963143935145423
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_144: 7931380232757149157
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_145: -8909231727802317488
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_146: -3162984690642048037
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_147: -3144255698651459778
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_148: 330738457928235304
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_149: -3703383696130339879
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_15: 7756887455700417947
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_150: 8539602244365537899
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_151: -2102121948561614415
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_152: -7450300384456468311
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_153: 6464297407749355022
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_154: -6144254575011356900
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_155: -1128427551321754166
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_156: -6899807666556177061
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_157: -5517542174792342035
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_158: -6286954999281053900
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_159: -3109225346340782370
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_16: 5758356013681002558
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_160: -5013788129674573019
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_161: 3215675551394990136
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_162: -4479962199491878501
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_163: 3650726494368774590
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_164: -5274757500190072554
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_165: -3566771294669625765
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_166: 3724736087857383955
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_167: -2738007920867860632
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_168: -3026989559727573330
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_169: 6117432987750527903
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_17: 5592389201137636144
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_170: 3321833206628864955
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_171: 1555266364199343746
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_172: 4155850873404065926
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_173: -6610853906467797737
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_174: 5555853825165261940
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_175: -9118629122336997461
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_176: 7783708875414281405
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_177: 2559420436373008141
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_178: 3635337383505583105
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_179: 5068241358987675169
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_18: -6080658602952147141
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_180: 5564435105511875899
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_181: 7286859353387845959
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_182: 8591505563754179038
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_183: 3251553171640176253
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_184: -2083825162877211260
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_185: 7439903793475878110
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_186: -1236142063475599525
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_187: 5648059841738605748
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_188: 4932845354572264072
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_189: 4727723225938929388
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_19: -99848888748305247
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_190: 9122588759380007366
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_191: 7414987876348983819
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_192: -4838296665433967160
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_193: 249084447920472527
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_194: 6953310727891195218
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_195: 7067555105576220681
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_196: -328686714481189358
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_197: -5663723180304052855
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_198: -3727447983277968054
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_199: 8883276475326713497
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_2: -4637726836744740310
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_20: 6252041100535763071
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_200: -6335351777737637398
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_201: -3092361091254365061
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_202: -6949409275518655989
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_203: -573801273689986201
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_204: 8474474943519458529
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_205: -503399145091535036
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_206: -7792566447019150360
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_207: 6176700221815743872
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_208: 7075351729341137117
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_209: 1552687469563314728
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_21: 6045126002261670569
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_210: -8438494425069319842
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_211: -7634205219635881916
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_212: -8584194698528244775
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_213: -9030746028261643278
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_214: 596957715746288862
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_215: 6643519664813289948
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_216: -4896551875759242571
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_217: 4433855497016361773
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_218: 8672683026415830024
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_219: -626572369635705775
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_22: 1448899231184138078
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_220: 9101662686917929649
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_221: 8262451174605702384
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_222: -2812119573749841884
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_223: 1002306694346844725
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_224: -3500956928801966686
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_225: 757173362640065338
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_226: 7699775368387207626
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_227: -1734257955352932768
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_228: 5354329750240660342
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_229: 4616628268942383411
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_23: -5804894758086998941
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_230: -4727119389759330461
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_231: 3167217109091295850
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_232: 6499654853339133659
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_233: 5329705420061250888
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_234: -6195196675235417893
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_235: 2996763882231427148
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_236: -8405860548424374519
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_237: 944095340048105767
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_238: -5961892866112113917
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_239: -8740526496876748784
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_24: 3052017345487655408
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_240: 2723959198429511018
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_241: 5296303203093813602
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_242: -1695730363470472576
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_243: 6293313795296408171
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_244: -4917330072845928531
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_245: -2712001331869374753
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_246: -2995975091764882149
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_247: 3876225011172547445
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_248: 8195202804119478912
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_249: -4022420415806875137
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_25: -8301911951907508465
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_250: -5392526446907677479
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_251: 1378029175589095216
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_252: -3051241207781637825
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_253: -3971168947049435240
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_254: 7553571306424855209
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_255: 6878873178100391695
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_256: -4512627992080393500
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_257: -3314585204881955258
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_258: 350671899275947335
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_259: 736552809136097967
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_26: -1912835409938435623
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_260: -3637431613636154003
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_261: 5764728034139996081
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_262: -230427028378362683
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_263: -7711605878848752456
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_264: -6502545955717284867
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_265: 1404561285997845090
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_266: 4313703833308526535
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_267: 4977573551413833677
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_268: -452251274086482699
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_269: -2022704830160529093
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_27: -1376773006799945413
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_270: -8419780186471559782
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_271: 4624963808567490252
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_272: -3346496124545731669
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_273: 8009283950252954842
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_274: 8860949890047610177
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_275: 4567266562979758875
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_276: 2204244061884161437
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_277: -1213710734139370748
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_278: -4828380940813319684
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_279: 7732914259470121748
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_28: 4833035164046851425
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_280: 169195628302733719
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_281: 7619186605603687591
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_282: 2261675902037375879
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_29: -4585068799432968835
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_3: 7416608644434044403
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_30: -3908623369049722681
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_31: 136741355921225752
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_32: 3543672708383318474
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_33: 7870448758001004368
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_34: 3572359416326099707
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_35: -5018233130866700255
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_36: 5296196704569859636
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_37: 3697533586654899908
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_38: 8908000611172860580
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_39: -876506085195846071
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_4: -8634924893172774934
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_40: 7233599520388291564
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_41: -234458346071047872
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_42: -2771321271462255615
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_43: 720309923359613719
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_44: -2198881041495793849
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_45: -3657116519205599247
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_46: 6094750210879736870
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_47: 7117533177499891828
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_48: 32456194573748610
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_49: -236610575534606143
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_5: -7573246335803695373
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_50: 3941921965189204333
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_51: 7175110331502833010
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_52: 1703670327248932735
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_53: 8331229514749964095
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_54: 2796386064480734420
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_55: -5583370930653287123
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_56: -3450732799100380039
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_57: -2880812196313464305
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_58: 2047110038334680001
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_59: 7291858224634866380
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_6: -7548182040166770403
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_60: 3352264025767827479
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_61: -5775359050524168354
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_62: -3581170137945316405
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_63: 2822386446188723472
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_64: 5798997025585424727
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_65: 755230186431868968
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_66: -6192194649887676274
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_67: 3367427899161836762
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_68: -3962226545354845183
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_69: -5351074585570191342
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_7: -6673095236032670583
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_70: 4082362444666032695
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_71: 1331080390784327438
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_72: -2987800545141495226
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_73: 155107114420856258
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_74: -7211939556423155775
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_75: -1849224781435350633
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_76: 3934036600128491880
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_77: -8991369040085141637
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_78: -4148501086373118618
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_79: 4937739752655446317
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_8: 154285504805548043
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_80: 1834847445789158780
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_81: -6272626574768518408
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_82: -8713651864007671621
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_83: 3855779184611745417
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_84: -5278409544593550042
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_85: 473400329438419214
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_86: -5752041438303125304
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_87: 3456935005083555956
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_88: -822837310838720382
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_89: -5586793912610887717
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_9: 8352927749150680440
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_90: 8856845940853632824
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_91: -5302767935043946773
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_92: 7702322451954735405
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_93: 325594851930186343
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_94: 7844242334508183078
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_95: -145782984887339533
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_96: 1541154420114872485
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_97: -4923913180204944945
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_98: 8836471624814518182
+      Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_99: -4261025714301675079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
