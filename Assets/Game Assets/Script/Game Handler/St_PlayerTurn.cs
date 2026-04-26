@@ -10,13 +10,17 @@ public class St_PlayerTurn : IBattleState
     public void onEnter()
     {
         Debug.Log("Entering Player Turn");
+        ctx.showOption();
+        ctx.Run_ReadingInput();
     }
     public void onUpdate()
     {
-        Debug.Log("Executing Player Turn");
+        // Debug.Log("Executing Player Turn");
+        // ctx.ChangeState(ctx.EnemyTurn);
     }
     public void onExit()
     {
         Debug.Log("Exiting Player Turn");
+        ctx.hideOption();
     }
 }

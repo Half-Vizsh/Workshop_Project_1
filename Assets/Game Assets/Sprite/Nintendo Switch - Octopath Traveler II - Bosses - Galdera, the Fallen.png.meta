@@ -1474,50 +1474,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_24
-      rect:
-        serializedVersion: 2
-        x: 541
-        y: 5873
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f15f1efa91fa5a20800000000000000
-      internalID: 3052017345487655408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_25
-      rect:
-        serializedVersion: 2
-        x: 723
-        y: 5873
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0fabfda01fa9cc80800000000000000
-      internalID: -8301911951907508465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Nintendo Switch - Octopath Traveler II - Bosses - Galdera, the Fallen_26
       rect:
         serializedVersion: 2
