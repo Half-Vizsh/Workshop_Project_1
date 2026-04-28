@@ -3,6 +3,6 @@ using UnityEngine;
 
 public interface IDamageable
 {
-    public void TakeDamage(int amount);
-    public void Die();
+    public abstract void TakeDamage(int amount);
+    public abstract void Die();
 }   
