@@ -72,6 +72,7 @@ public class GH_BattleHandler : MonoBehaviour
         if (playerScript==null) return;
         Target.TakeDamage(playerScript.getTotalDamage());
         Debug.Log(Target.name+" diserang, darahnya berkurang menjadi: "+Target.getHP());
+        //Tambahin delay neh disini
         ChangeState(EnemyTurn);//harusnya enemy, player buat test
     }
     public void onAttackButtonCanceled()
