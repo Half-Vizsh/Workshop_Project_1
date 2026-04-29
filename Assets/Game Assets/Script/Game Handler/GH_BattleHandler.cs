@@ -16,6 +16,7 @@ public class GH_BattleHandler : MonoBehaviour
     [SerializeField] private GameObject options;    public void showOption(){this.options.SetActive(true);} public void hideOption(){this.options.SetActive(false);}
     public Button Ply_AttackButton; public Button Ply_ItemButton;
     private GH_TargetHandler TargetHandler;
+    private Ply_Char_Base playerScript;
 
     [Header("Enemy Turn Handler")]
     [SerializeField] private GameObject Playerheart;    public void showHeart(){this.Playerheart.SetActive(true);} public void hideHeart(){this.Playerheart.SetActive(false);}
@@ -33,6 +34,7 @@ public class GH_BattleHandler : MonoBehaviour
         TargetHandler = this.GetComponent<GH_TargetHandler>();
         TargetHandler.AttackConfirmed += onAttackButtonConfirmed; 
         TargetHandler.AttackCanceled += onAttackButtonCanceled;
+        playerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<Ply_Char_Base>();
         ChangeState(PlayerTurn);
     }
     private void Update()
@@ -62,6 +64,18 @@ public class GH_BattleHandler : MonoBehaviour
     {
         Debug.Log("Item Button has been pressed");
     }
+    //Where the targeting logic is handled
+    public void onAttackButtonConfirmed(Emy_Base Target)
+    {
+        if (playerScript==null) return;
+        Target.TakeDamage(playerScript.getTotalDamage());
+        Debug.Log(Target.name+" diserang, darahnya berkurang menjadi: "+Target.getHP());
+        ChangeState(EnemyTurn);//harusnya enemy, player buat test
+    }
+    public void onAttackButtonCanceled()
+    {
+        ChangeState(PlayerTurn);
+    }
     public void Run_ReadingInput() => StartCoroutine(ReadingPlayerChoosing()); //Cuma buat run
     public IEnumerator ReadingPlayerChoosing()
     {
@@ -85,16 +99,5 @@ public class GH_BattleHandler : MonoBehaviour
             }
             yield return null;
         }
-    }
-    //Where the targeting logic is handled
-    public void onAttackButtonConfirmed(Emy_Base Target)
-    {
-        Target.TakeDamage(20);
-        Debug.Log(Target.name+" diserang, darahnya berkurang menjadi: "+Target.getHP());
-        ChangeState(EnemyTurn);//harusnya enemy, player buat test
-    }
-    public void onAttackButtonCanceled()
-    {
-        ChangeState(PlayerTurn);
     }
 }

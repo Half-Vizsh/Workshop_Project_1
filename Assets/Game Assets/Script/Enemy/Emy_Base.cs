@@ -33,7 +33,7 @@ public class Emy_Base : MonoBehaviour, IDamageable
     {
         Debug.Log ("Object Die");
         GH_TH_Script.remTarget(this);
-        Destroy(gameObject);
+        Destroy(gameObject, 0.5f);
     }
     //#Targetting
     public virtual void onChoosen()
