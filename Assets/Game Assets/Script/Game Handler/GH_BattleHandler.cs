@@ -1,5 +1,6 @@
 using System.Collections;
 using Unity.VisualScripting;
+using UnityEditor.PackageManager;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
@@ -16,9 +17,10 @@ public class GH_BattleHandler : MonoBehaviour
     [SerializeField] private GameObject options;    public void showOption(){this.options.SetActive(true);} public void hideOption(){this.options.SetActive(false);}
     public Button Ply_AttackButton; public Button Ply_ItemButton;
     private GH_TargetHandler TargetHandler;
+    private Ply_Char_Base playerScript;
 
     [Header("Enemy Turn Handler")]
-    [SerializeField] private GameObject Playerheart;    public void showHeart(){this.Playerheart.SetActive(true);} public void hideHeart(){this.Playerheart.SetActive(false);}
+    [SerializeField] private Ply_Soul_Move SoulScript; 
     [SerializeField] private GameObject MoveableArea;   public void showArea(){this.MoveableArea.SetActive(true);} public void hideArea(){this.MoveableArea.SetActive(false);}
     private void Awake()
     {
@@ -33,6 +35,8 @@ public class GH_BattleHandler : MonoBehaviour
         TargetHandler = this.GetComponent<GH_TargetHandler>();
         TargetHandler.AttackConfirmed += onAttackButtonConfirmed; 
         TargetHandler.AttackCanceled += onAttackButtonCanceled;
+        playerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<Ply_Char_Base>();
+        SoulScript = GameObject.FindGameObjectWithTag("PlayerSoul").GetComponent<Ply_Soul_Move>();
         ChangeState(PlayerTurn);
     }
     private void Update()
@@ -62,14 +66,32 @@ public class GH_BattleHandler : MonoBehaviour
     {
         Debug.Log("Item Button has been pressed");
     }
+    //Where the targeting logic is handled
+    public void onAttackButtonConfirmed(Emy_Base Target)
+    {
+        if (playerScript==null) return;
+        Target.TakeDamage(playerScript.getTotalDamage());
+        Debug.Log(Target.name+" diserang, darahnya berkurang menjadi: "+Target.getHP());
+        //Tambahin delay neh disini
+        ChangeState(EnemyTurn);//harusnya enemy, player buat test
+    }
+    public void onAttackButtonCanceled()
+    {
+        ChangeState(PlayerTurn);
+    }
     public void Run_ReadingInput() => StartCoroutine(ReadingPlayerChoosing()); //Cuma buat run
     public IEnumerator ReadingPlayerChoosing()
     {
         Debug.Log("Waiting input");
         Ply_AttackButton.onClick.AddListener(onAttackButtonClick); //Event system
         Ply_ItemButton.onClick.AddListener(onItemButtonClick);
+        GameObject lastButtonSelected = EventSystem.current.currentSelectedGameObject;
+        GameObject buttonSelected;
         while (true){ 
-            GameObject buttonSelected = EventSystem.current.currentSelectedGameObject;
+            buttonSelected =  EventSystem.current.currentSelectedGameObject;
+            if (buttonSelected == null) EventSystem.current.SetSelectedGameObject(lastButtonSelected);
+            else{lastButtonSelected = buttonSelected;} 
+
             if (Keyboard.current.enterKey.wasPressedThisFrame){ 
                 if (buttonSelected == Ply_AttackButton.gameObject){
                     Ply_AttackButton.onClick.Invoke(); 
@@ -86,14 +108,17 @@ public class GH_BattleHandler : MonoBehaviour
             yield return null;
         }
     }
-    //Where the targeting logic is handled
-    public void onAttackButtonConfirmed(Emy_Base Target)
+    //Where the Hearth movement handled
+    public void doMoveCent() => StartCoroutine(MovingHeartCen());
+    private IEnumerator MovingHeartCen()
     {
-        //Masukin damage si player di sini
-        // Target.TakeDamage(20);   
+        SoulScript.showheart();
+        yield return StartCoroutine(SoulScript.MoveToCenter());
     }
-    public void onAttackButtonCanceled()
+    public void doMoveBack() => StartCoroutine(MovingHeartOri());
+    private IEnumerator MovingHeartOri()
     {
-        ChangeState(PlayerTurn);
+        yield return StartCoroutine(SoulScript.MoveToChar());
+        SoulScript.hideHeart();
     }
 }

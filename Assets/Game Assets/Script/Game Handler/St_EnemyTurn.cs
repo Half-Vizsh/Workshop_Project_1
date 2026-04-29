@@ -11,7 +11,7 @@ public class St_EnemyTurn : IBattleState
     public void onEnter()
     {
         Debug.Log("Entering Enemy Turn");
-        ctx.showHeart();
+        ctx.doMoveCent();
         ctx.showArea();
     }
     public void onUpdate()
@@ -22,7 +22,7 @@ public class St_EnemyTurn : IBattleState
     public void onExit()
     {
         Debug.Log("Exiting Enemy Turn");
-        ctx.hideHeart();
+        ctx.doMoveBack();
         ctx.hideArea();
     }
 }
