@@ -13,14 +13,6 @@ public class GH_TargetHandler : MonoBehaviour
     public event Action<Emy_Base> AttackConfirmed;
     public event Action AttackCanceled;
     private bool isTargeting = false;
-    // void Update()
-    // {
-    //     Debug.Log("Ada "+SelectablesEmy.Count+" biji musuh saat ini");
-    //     foreach (Emy_Base eb in SelectablesEmy)
-    //     {
-    //         Debug.Log("Ada musuh "+eb.name+"\n");
-    //     }
-    // }
     public void addTarget(Emy_Base T) => SelectablesEmy.Add(T);
     public void remTarget(Emy_Base T) => SelectablesEmy.Remove(T);
     public void doTargetting()
@@ -34,6 +26,7 @@ public class GH_TargetHandler : MonoBehaviour
     //Written by Claude but catch the meaning, it's navigating by index, the modulo lines making sure that it won't go xout of bound 
     public IEnumerator ReadingPlayerTargetting()
     {
+        if (getCurrent() == null) yield break;   
         getCurrent().onChoosen(); //Highlight the first target, ini jalan
         yield return null; //Nungguin si BH selesai dulu ceunah biar bisa make enter
         while (true){
@@ -43,15 +36,16 @@ public class GH_TargetHandler : MonoBehaviour
             if (Keyboard.current.enterKey.wasPressedThisFrame)
             {
                 // Debug.Log("Attack Confirmed");
+                 isTargeting = false;
+                getCurrent().onLeave();
                 AttackConfirmed?.Invoke(getCurrent());
-                isTargeting = false;
                 yield break;
             }
             if (Keyboard.current.escapeKey.wasPressedThisFrame)
             {
-                AttackCanceled?.Invoke();
                 isTargeting = false;
                 getCurrent().onLeave();
+                AttackCanceled?.Invoke();
                 yield break;
             }
             yield return null;
@@ -71,6 +65,8 @@ public class GH_TargetHandler : MonoBehaviour
         currentIdx = (currentIdx-1+SelectablesEmy.Count)% SelectablesEmy.Count;
         getCurrent().onChoosen();
     }
-    public Emy_Base getCurrent() => SelectablesEmy[currentIdx];
-    
+    public Emy_Base getCurrent() {
+        if (SelectablesEmy.Count<=0) return null;
+        return SelectablesEmy[currentIdx];
+    }   
 }

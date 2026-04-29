@@ -89,8 +89,9 @@ public class GH_BattleHandler : MonoBehaviour
     //Where the targeting logic is handled
     public void onAttackButtonConfirmed(Emy_Base Target)
     {
-        //Masukin damage si player di sini
-        // Target.TakeDamage(20);   
+        Target.TakeDamage(20);
+        Debug.Log(Target.name+" diserang, darahnya berkurang menjadi: "+Target.getHP());
+        ChangeState(EnemyTurn);//harusnya enemy, player buat test
     }
     public void onAttackButtonCanceled()
     {
