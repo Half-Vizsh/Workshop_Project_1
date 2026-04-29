@@ -1,5 +1,6 @@
 using System.Collections;
 using Unity.VisualScripting;
+using UnityEditor.PackageManager;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
@@ -19,7 +20,7 @@ public class GH_BattleHandler : MonoBehaviour
     private Ply_Char_Base playerScript;
 
     [Header("Enemy Turn Handler")]
-    [SerializeField] private GameObject Playerheart;    public void showHeart(){this.Playerheart.SetActive(true);} public void hideHeart(){this.Playerheart.SetActive(false);}
+    [SerializeField] private Ply_Soul_Move SoulScript; 
     [SerializeField] private GameObject MoveableArea;   public void showArea(){this.MoveableArea.SetActive(true);} public void hideArea(){this.MoveableArea.SetActive(false);}
     private void Awake()
     {
@@ -35,6 +36,7 @@ public class GH_BattleHandler : MonoBehaviour
         TargetHandler.AttackConfirmed += onAttackButtonConfirmed; 
         TargetHandler.AttackCanceled += onAttackButtonCanceled;
         playerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<Ply_Char_Base>();
+        SoulScript = GameObject.FindGameObjectWithTag("PlayerSoul").GetComponent<Ply_Soul_Move>();
         ChangeState(PlayerTurn);
     }
     private void Update()
@@ -82,8 +84,13 @@ public class GH_BattleHandler : MonoBehaviour
         Debug.Log("Waiting input");
         Ply_AttackButton.onClick.AddListener(onAttackButtonClick); //Event system
         Ply_ItemButton.onClick.AddListener(onItemButtonClick);
+        GameObject lastButtonSelected = EventSystem.current.currentSelectedGameObject;
+        GameObject buttonSelected;
         while (true){ 
-            GameObject buttonSelected = EventSystem.current.currentSelectedGameObject;
+            buttonSelected =  EventSystem.current.currentSelectedGameObject;
+            if (buttonSelected == null) EventSystem.current.SetSelectedGameObject(lastButtonSelected);
+            else{lastButtonSelected = buttonSelected;} 
+
             if (Keyboard.current.enterKey.wasPressedThisFrame){ 
                 if (buttonSelected == Ply_AttackButton.gameObject){
                     Ply_AttackButton.onClick.Invoke(); 
@@ -99,5 +106,18 @@ public class GH_BattleHandler : MonoBehaviour
             }
             yield return null;
         }
+    }
+    //Where the Hearth movement handled
+    public void doMoveCent() => StartCoroutine(MovingHeartCen());
+    private IEnumerator MovingHeartCen()
+    {
+        SoulScript.showheart();
+        yield return StartCoroutine(SoulScript.MoveToCenter());
+    }
+    public void doMoveBack() => StartCoroutine(MovingHeartOri());
+    private IEnumerator MovingHeartOri()
+    {
+        yield return StartCoroutine(SoulScript.MoveToChar());
+        SoulScript.hideHeart();
     }
 }
