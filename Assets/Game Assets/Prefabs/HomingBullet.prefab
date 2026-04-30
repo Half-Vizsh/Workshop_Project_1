@@ -156,7 +156,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.3
+  m_Radius: 0.275
 --- !u!114 &9173289149238351215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -173,6 +173,6 @@ MonoBehaviour:
   Col: {fileID: 0}
   Speed: 3
   lifeTime: 3
-  baseDamage: 5
+  baseDamage: 7
   homingSpeed: 10
   secToHoming: 1

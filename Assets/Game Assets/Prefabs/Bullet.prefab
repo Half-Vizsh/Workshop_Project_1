@@ -173,4 +173,4 @@ MonoBehaviour:
   Col: {fileID: 0}
   Speed: 4
   lifeTime: 3
-  baseDamage: 0
+  baseDamage: 10

@@ -20,6 +20,7 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
     {
         currentHP = MaxHP;
         visualScript = GetComponent<Ply_FlashEffect>();
+        visualScript.UpdateBar(currentHP, MaxHP);
     }
 
     // Update is called once per frame
@@ -40,11 +41,20 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
         Debug.Log("Character Taking damage: "+DamageAmount+" HP left: "+this.currentHP);
         currentFrame = IFrame;
         visualScript.doFlash();
+        visualScript.UpdateBar(currentHP, MaxHP);
         if (Mathf.Clamp(currentHP, 0, MaxHP) == 0)
         {
+            visualScript.DeleteChar();
             Die();
         }
     }
+    public virtual void ReceiveHeal(int HealAmount)
+    {
+        currentHP = Mathf.Clamp(currentHP+HealAmount, 0, MaxHP);
+        visualScript.doHealEffect();         
+        visualScript.UpdateBar(currentHP, MaxHP);
+        Debug.Log("Character Receive Heal: "+HealAmount+" HP left: "+this.currentHP);
+}
     public virtual void Die()
     {
         if(IsDead) return;

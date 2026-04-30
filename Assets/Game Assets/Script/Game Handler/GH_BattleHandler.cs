@@ -7,6 +7,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.UI;
 public class GH_BattleHandler : MonoBehaviour
 {
+    //Script ini ngehandle ganti-ganti turn ama input player
     public static GH_BattleHandler Instance {get; private set;}
     private IBattleState currentState;
     public St_PlayerTurn PlayerTurn {get; private set;}
@@ -15,7 +16,7 @@ public class GH_BattleHandler : MonoBehaviour
     
     [Header("Player Turn Handler")]
     [SerializeField] private GameObject options;    public void showOption(){this.options.SetActive(true);} public void hideOption(){this.options.SetActive(false);}
-    public Button Ply_AttackButton; public Button Ply_ItemButton;
+    public Button Ply_AttackButton; public Button Ply_HealButton;
     private GH_TargetHandler TargetHandler;
     private Ply_Char_Base playerScript;
 
@@ -63,9 +64,10 @@ public class GH_BattleHandler : MonoBehaviour
         Debug.Log("Attack Button has been pressed");
         TargetHandler.doTargetting();
     }
-    public void onItemButtonClick()
+    public void onHealButtonClick()
     {
-        Debug.Log("Item Button has been pressed");
+        Debug.Log("Heal Button has been pressed");
+        playerScript.ReceiveHeal(20);   
     }
     //Where the targeting logic is handled
     public void onAttackButtonConfirmed(Emy_Base Target)
@@ -85,7 +87,7 @@ public class GH_BattleHandler : MonoBehaviour
     {
         Debug.Log("Waiting input");
         Ply_AttackButton.onClick.AddListener(onAttackButtonClick); //Event system
-        Ply_ItemButton.onClick.AddListener(onItemButtonClick);
+        Ply_HealButton.onClick.AddListener(onHealButtonClick);
         GameObject lastButtonSelected = EventSystem.current.currentSelectedGameObject;
         GameObject buttonSelected;
         while (true){ 
@@ -99,9 +101,9 @@ public class GH_BattleHandler : MonoBehaviour
                     ChangeState(ChooseTargetTurn);
                     yield break;
                 } 
-                if (buttonSelected == Ply_ItemButton.gameObject){
-                    Ply_ItemButton.onClick.Invoke();
-                    Debug.Log("Item has been pressed"); 
+                if (buttonSelected == Ply_HealButton.gameObject){
+                    Ply_HealButton.onClick.Invoke();
+                    Debug.Log("Heal has been pressed"); 
                     ChangeState(EnemyTurn);
                     yield break;   
                 }
