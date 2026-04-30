@@ -5,12 +5,13 @@ public class NewMonoBehaviourScript : Prj_BaseProjectile
 {
     private Transform PlayerPos;
     [SerializeField]private float homingSpeed; //Speed during homing
+    [SerializeField]private float secToHoming;
     private float realSpeed = 2f;
     public override void OnEnable()
     {
         base.OnEnable();
         setSpeed(realSpeed);
-        Invoke("Homing", 1.5f);
+        Invoke("Homing", secToHoming);
     }
     override public void Start()
     {

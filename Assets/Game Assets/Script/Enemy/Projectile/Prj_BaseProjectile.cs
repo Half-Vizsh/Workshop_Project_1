@@ -8,7 +8,7 @@ using UnityEngine;
 public class Prj_BaseProjectile : MonoBehaviour
 {
     [SerializeField] protected Rigidbody2D rb2d;
-    [SerializeField] protected BoxCollider2D bCol;
+    [SerializeField] protected Collider2D Col;
     [SerializeField] protected float  Speed; public void setSpeed(float newSpeed) => this.Speed = newSpeed; public float getSpeed(){return this.Speed;}
     [SerializeField] protected float lifeTime; public void setLifeTime(float newLifetime) => this.lifeTime = newLifetime; public float getLifeTime() {return this.lifeTime;}
     [SerializeField] protected int baseDamage;
@@ -20,7 +20,7 @@ public class Prj_BaseProjectile : MonoBehaviour
     public virtual void Start()
     {
         rb2d = this.GetComponent<Rigidbody2D>();
-        bCol = this.GetComponent<BoxCollider2D>();
+        Col = this.GetComponent<Collider2D>();
     } 
     public virtual void Update()
     {
