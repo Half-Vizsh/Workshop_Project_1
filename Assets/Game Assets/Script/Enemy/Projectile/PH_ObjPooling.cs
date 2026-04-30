@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class PH_ObjPooling : MonoBehaviour
@@ -41,7 +42,7 @@ public class PH_ObjPooling : MonoBehaviour
         }
         if (needMoreBullet)
         {
-            GameObject bul = Instantiate (pooledBullet);
+            GameObject bul = Instantiate (pooledBullet, this.transform.position, quaternion.identity);
             bul.SetActive(false);
             bullets.Add(bul);
             return bul;

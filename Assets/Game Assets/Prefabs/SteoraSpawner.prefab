@@ -107,15 +107,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PH_Spawner
   currentType: 0
   bulletsAmount: 6
-  fireRate: 3
+  fireRate: 2
   startAngle: 0
   endAngle: 360
   HomingBullet: {fileID: 7363014316733500505, guid: 41b0c0db45110d049b61be4da3aea76e, type: 3}
-  homingFireRate: 5
+  homingFireRate: 2
   homingAmount: 6
   RegularBullet: {fileID: 6598455015530212781, guid: 0d82c779bbbd35c40a87ee9ca1e9b547, type: 3}
-  regularFireRate: 0.5
-  regularAmount: 2
+  regularFireRate: 0.25
+  regularAmount: 3
+  rotationSpeed: 15
 --- !u!114 &1146141006136755189
 MonoBehaviour:
   m_ObjectHideFlags: 0

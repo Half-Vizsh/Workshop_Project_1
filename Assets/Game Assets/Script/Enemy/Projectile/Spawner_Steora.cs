@@ -1,6 +1,8 @@
 using System.Collections;
+// using System.Numerics;
 using System.Runtime.CompilerServices;
 using Unity.Mathematics;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public enum SpawnerType {
@@ -23,11 +25,17 @@ public class Spawner_Steora: MonoBehaviour
     [SerializeField] private GameObject RegularBullet;
     [SerializeField]private float regularFireRate;
     [SerializeField]private int regularAmount;
+    [SerializeField]private float rotationSpeed;
+    private bool shouldRotate;
     void Start()
     {
         StartCoroutine(Blasting());
     }
-    //Kudu na mah make Coroutine anjer, hehehe sorry norak baru tau cara make Invoke soalnya
+    void Update()
+    {
+        if (shouldRotate)  transform.Rotate(0,0,rotationSpeed*Time.fixedDeltaTime);
+        else if (transform.rotation.z!=0) transform.rotation = quaternion.identity;
+    }
     private IEnumerator Blasting()
     {
         while (true){
@@ -58,11 +66,13 @@ public class Spawner_Steora: MonoBehaviour
                      this.fireRate = homingFireRate;
                      this.bulletsAmount = homingAmount;
                      PH_ObjPooling.objPoolInstance.setPooledBullet(HomingBullet);
+                     shouldRotate = false;
                      break;
                 case SpawnerType.Line:
                     this.fireRate = regularFireRate;
                     this.bulletsAmount = regularAmount;
                      PH_ObjPooling.objPoolInstance.setPooledBullet(RegularBullet);
+                     shouldRotate = true;
                     break;
         }
     }
