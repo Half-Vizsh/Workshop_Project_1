@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2054550480725870726}
   - component: {fileID: 1983580439518478555}
   - component: {fileID: 8387634990963502403}
+  - component: {fileID: 7671408451170673311}
   m_Layer: 0
   m_Name: PlayerHeart
   m_TagString: PlayerSoul
@@ -254,3 +255,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Ply_Char_Base
   baseDamage: 35
   MaxHP: 100
+  IFrame: 1
+--- !u!114 &7671408451170673311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5808995892225701386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a9725d3b3597548929628f4c2d4213, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ply_FlashEffect
+  normalMat: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  flashMat: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
+  FlashDur: 0.15
+  blinkTimes: 3
