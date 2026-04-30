@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8809509025293197910}
   - component: {fileID: 1541701774714744547}
-  - component: {fileID: 8110657663598830649}
   m_Layer: 0
   m_Name: PlayerChar
   m_TagString: Player
@@ -82,7 +81,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 3774151017993293665, guid: e23bfe0849e43fa4f8eb01091c9c2020, type: 3}
+  m_Sprite: {fileID: 6431197835915817029, guid: 077bfaa0d2ab42a4db13c0c5842ed35d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -92,17 +91,3 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &8110657663598830649
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6871674614861499459}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9981805e196c37f4ba984d08b8a49a62, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Player_Base
-  baseDamage: 35
-  MaxHP: 100

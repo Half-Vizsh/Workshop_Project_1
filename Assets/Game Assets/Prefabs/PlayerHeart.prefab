@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5526469242457106756}
   - component: {fileID: 2054550480725870726}
   - component: {fileID: 1983580439518478555}
+  - component: {fileID: 8387634990963502403}
   m_Layer: 0
   m_Name: PlayerHeart
   m_TagString: PlayerSoul
@@ -239,3 +240,17 @@ MonoBehaviour:
   CenterPos: {x: 0, y: 0}
   originPos: {x: 0, y: 0}
   AutoMoveSpeed: 10
+--- !u!114 &8387634990963502403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5808995892225701386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9981805e196c37f4ba984d08b8a49a62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Ply_Char_Base
+  baseDamage: 35
+  MaxHP: 100

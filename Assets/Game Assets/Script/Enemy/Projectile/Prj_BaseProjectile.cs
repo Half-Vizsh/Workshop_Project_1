@@ -12,7 +12,7 @@ public class Prj_BaseProjectile : MonoBehaviour
     [SerializeField] protected float  Speed; public void setSpeed(float newSpeed) => this.Speed = newSpeed; public float getSpeed(){return this.Speed;}
     [SerializeField] protected float lifeTime; public void setLifeTime(float newLifetime) => this.lifeTime = newLifetime; public float getLifeTime() {return this.lifeTime;}
     [SerializeField] protected int baseDamage;
-    private Vector2 moveDirection;
+    protected Vector2 moveDirection;
     public virtual void OnEnable()
     {
         Invoke("Destroy",getLifeTime());
@@ -34,9 +34,9 @@ public class Prj_BaseProjectile : MonoBehaviour
     {
         moveDirection = newDir;
     }
-    public void OnTriggerEnter2D(Collider2D other)
+    public virtual void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("PlayerSoul"))
         {
             other.GetComponent<Ply_Char_Base>().TakeDamage(baseDamage);
         }

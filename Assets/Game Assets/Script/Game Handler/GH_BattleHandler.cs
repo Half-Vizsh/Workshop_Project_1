@@ -35,8 +35,9 @@ public class GH_BattleHandler : MonoBehaviour
         TargetHandler = this.GetComponent<GH_TargetHandler>();
         TargetHandler.AttackConfirmed += onAttackButtonConfirmed; 
         TargetHandler.AttackCanceled += onAttackButtonCanceled;
-        playerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<Ply_Char_Base>();
-        SoulScript = GameObject.FindGameObjectWithTag("PlayerSoul").GetComponent<Ply_Soul_Move>();
+        GameObject PlayerObj = GameObject.FindGameObjectWithTag("PlayerSoul");
+        playerScript = PlayerObj.GetComponent<Ply_Char_Base>();
+        SoulScript = PlayerObj.GetComponent<Ply_Soul_Move>();
         ChangeState(PlayerTurn);
     }
     private void Update()

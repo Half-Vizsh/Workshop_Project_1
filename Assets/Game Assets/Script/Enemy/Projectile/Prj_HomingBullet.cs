@@ -27,6 +27,7 @@ public class NewMonoBehaviourScript : Prj_BaseProjectile
     }
     public void Homing()
     {
+        if (PlayerPos==null) return;
         Vector2 homingDir = (PlayerPos.position - transform.position).normalized; //Dapetin dir baru
         setSpeed(homingSpeed);
         setMovingDir(homingDir);   

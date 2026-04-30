@@ -1,12 +1,14 @@
 using System;
+using NUnit.Framework;
 using UnityEngine;
 
 public class Ply_Char_Base : MonoBehaviour, IDamageable
 {
     [SerializeField]private int baseDamage; 
     [SerializeField]private int MaxHP;
+    private bool IsDead = false;
     private int currentHP;
-    public Action OnDefeated;
+    // public Action OnDefeated;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -25,7 +27,8 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
     }
     public virtual void TakeDamage(int DamageAmount)
     {
-        currentHP-=DamageAmount;
+        currentHP = Mathf.Clamp(currentHP-DamageAmount, 0, MaxHP); 
+        Debug.Log("Character Taking damage: "+DamageAmount+" HP left: "+this.currentHP);
         if (Mathf.Clamp(currentHP, 0, MaxHP) == 0)
         {
             Die();
@@ -33,7 +36,10 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
     }
     public virtual void Die()
     {
-        OnDefeated.Invoke();
+        if(IsDead) return;
+        Debug.Log(this.name+" is destoryed");
+        // OnDefeated.Invoke();
         Destroy(gameObject);
+        IsDead = true;
     }
 }
