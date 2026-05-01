@@ -22,11 +22,11 @@ public class Emy_Base : MonoBehaviour, IDamageable
     public virtual void Update(){}
     public virtual void StartAttack()
     {
-        SpawnerChild.StartSpawning();
+        SpawnerChild?.StartSpawning();
     }
     public virtual void StopAttack()
     {
-        SpawnerChild.StopSpawning();
+        SpawnerChild?.StopSpawning();
     }
     //#Damaging
     public virtual  void TakeDamage(int amount)

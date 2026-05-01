@@ -39,19 +39,20 @@ public class Spawner_Steora: Spawner_Base
     }
     public override void StartSpawning()
     {
+        if (this == null||gameObject == null) return;
         base.StartSpawning();
         int typeRandom = UnityEngine.Random.Range(0,2);
-        SpawnerSprite.color = Color.white;
+        if (SpawnerSprite!=null) SpawnerSprite.color = Color.white;
         if (typeRandom == 0) currentType = SpawnerType.Circle;
         else currentType = SpawnerType.Line;
-        StartCoroutine(Blasting());
-        
+        StartCoroutine(Blasting());        
     }
     public override void StopSpawning()
     {
+        if (this == null || gameObject == null) return;
         base.StopSpawning();
         StopAllCoroutines();
-        PH_ObjPooling.objPoolInstance.RemovePooledBullet();
+        PH_ObjPooling.objPoolInstance?.RemovePooledBullet();
     }
     private IEnumerator Blasting()
     {

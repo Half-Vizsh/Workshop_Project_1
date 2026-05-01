@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 6413183829329670347}
   - component: {fileID: 5003261724162495022}
   - component: {fileID: 4863501103428304880}
+  - component: {fileID: 3887509003738339046}
+  - component: {fileID: 6168782403474198341}
   m_Layer: 0
   m_Name: BattleHandler
   m_TagString: GameHandler
@@ -64,3 +66,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3460c271b2e1a084a837d68cac12633e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GH_TargetHandler
+--- !u!114 &3887509003738339046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4871630673849753732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfe15726adda717458b68b0026a39ce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GH_UIManager
+  MenuUI: {fileID: 0}
+  BackgroundPanel: {fileID: 0}
+  UIText: {fileID: 0}
+  AttackButton: {fileID: 0}
+  ReturnToMainMenu: {fileID: 0}
+--- !u!114 &6168782403474198341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4871630673849753732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b3b9fc348bff2439df9be336178d67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GH_ButtonUIManager

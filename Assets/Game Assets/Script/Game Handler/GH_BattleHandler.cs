@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEditor.PackageManager;
@@ -31,7 +32,9 @@ public class GH_BattleHandler : MonoBehaviour
         Instance = this;
         PlayerTurn = new St_PlayerTurn(this);
         EnemyTurn = new St_EnemyTurn(this);
-        ChooseTargetTurn = new St_ChooseTarget(this);
+        ChooseTargetTurn = new St_ChooseTarget(this);        
+        Ply_AttackButton.onClick.AddListener(onAttackButtonClick); //Event system
+        Ply_HealButton.onClick.AddListener(onHealButtonClick);
     }
     private void Start()
     {
@@ -49,12 +52,12 @@ public class GH_BattleHandler : MonoBehaviour
     }
     private void Update()
     {
-        //For debugging, changing state with space, delete this later
-        if (Keyboard.current.spaceKey.wasPressedThisFrame)
-        {
-            if (currentState == PlayerTurn)ChangeState(EnemyTurn);
-            else ChangeState(PlayerTurn);
-        }
+        // //For debugging, changing state with space, delete this later
+        // if (Keyboard.current.spaceKey.wasPressedThisFrame)
+        // {
+        //     if (currentState == PlayerTurn)ChangeState(EnemyTurn);
+        //     else ChangeState(PlayerTurn);
+        // }
         currentState?.onUpdate();
     }
     public void ChangeState(IBattleState nextState)
@@ -94,8 +97,6 @@ public class GH_BattleHandler : MonoBehaviour
     public IEnumerator ReadingPlayerChoosing()
     {
         Debug.Log("Waiting input");
-        Ply_AttackButton.onClick.AddListener(onAttackButtonClick); //Event system
-        Ply_HealButton.onClick.AddListener(onHealButtonClick);
         GameObject lastButtonSelected = EventSystem.current.currentSelectedGameObject;
         GameObject buttonSelected;
         while (true){ 
