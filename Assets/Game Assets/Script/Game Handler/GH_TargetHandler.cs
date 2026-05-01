@@ -4,16 +4,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 // using UnityEngine.UIElements;
 
 public class GH_TargetHandler : MonoBehaviour
 {
-    public static List<Emy_Base> SelectablesEmy = new List<Emy_Base>();
-    public static int currentIdx = 0;
+    public List<Emy_Base> SelectablesEmy = new List<Emy_Base>();
+    public  int currentIdx = 0;
     public event Action<Emy_Base> AttackConfirmed;
     public event Action AttackCanceled;
     private bool isTargeting = false;
-    public void addTarget(Emy_Base T) => SelectablesEmy.Add(T);
+    public void addTarget(Emy_Base T)
+    {
+      SelectablesEmy.Add(T);  
+        Debug.Log(T.name + " registered, total: " + SelectablesEmy.Count);
+    } 
     public void remTarget(Emy_Base T) => SelectablesEmy.Remove(T);
     public void doTargetting()
     {

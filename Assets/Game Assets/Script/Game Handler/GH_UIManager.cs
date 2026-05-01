@@ -23,6 +23,7 @@ public class GH_UIManager : MonoBehaviour
         GH_BattleHandler.OnWin += OnWin;
         MenuUI.SetActive(false);
         Time.timeScale = 1f;   
+        EventSystem.current.SetSelectedGameObject(AttackButton.gameObject); 
     }
 
     // Update is called once per frame

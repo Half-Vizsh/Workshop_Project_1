@@ -33,7 +33,9 @@ public class GH_BattleHandler : MonoBehaviour
         Instance = this;
         PlayerTurn = new St_PlayerTurn(this);
         EnemyTurn = new St_EnemyTurn(this);
-        ChooseTargetTurn = new St_ChooseTarget(this);
+        ChooseTargetTurn = new St_ChooseTarget(this);        
+        Ply_AttackButton.onClick.AddListener(onAttackButtonClick); //Event system
+        Ply_HealButton.onClick.AddListener(onHealButtonClick);
     }
     private void Start()
     {
@@ -96,8 +98,6 @@ public class GH_BattleHandler : MonoBehaviour
     public IEnumerator ReadingPlayerChoosing()
     {
         Debug.Log("Waiting input");
-        Ply_AttackButton.onClick.AddListener(onAttackButtonClick); //Event system
-        Ply_HealButton.onClick.AddListener(onHealButtonClick);
         GameObject lastButtonSelected = EventSystem.current.currentSelectedGameObject;
         GameObject buttonSelected;
         while (true){ 

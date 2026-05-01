@@ -1788,7 +1788,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 784704215}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4723978993002472825}
+        m_TargetAssemblyTypeName: GH_BattleHandler, Assembly-CSharp
+        m_MethodName: onAttackButtonClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &784704215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4323,6 +4335,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f105e7c31ce543641bdd6fff2d4d0862, type: 3}
+--- !u!114 &4723978993002472825 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5003261724162495022, guid: f105e7c31ce543641bdd6fff2d4d0862, type: 3}
+  m_PrefabInstance: {fileID: 4723978993002472824}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d6a55e587315249b22f7f2b5a2fe8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GH_BattleHandler
 --- !u!114 &4723978993002472830 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6168782403474198341, guid: f105e7c31ce543641bdd6fff2d4d0862, type: 3}
