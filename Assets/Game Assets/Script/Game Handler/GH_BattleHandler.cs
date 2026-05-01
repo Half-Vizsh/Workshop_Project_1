@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEditor.PackageManager;
@@ -9,6 +10,7 @@ public class GH_BattleHandler : MonoBehaviour
 {
     //This script Handle the turn base mechanic and player's input
     public static GH_BattleHandler Instance {get; private set;}
+    public static Action OnWin;
     private IBattleState currentState;
     public St_PlayerTurn PlayerTurn {get; private set;}
     public St_EnemyTurn EnemyTurn {get; private set;}
@@ -49,12 +51,12 @@ public class GH_BattleHandler : MonoBehaviour
     }
     private void Update()
     {
-        //For debugging, changing state with space, delete this later
-        if (Keyboard.current.spaceKey.wasPressedThisFrame)
-        {
-            if (currentState == PlayerTurn)ChangeState(EnemyTurn);
-            else ChangeState(PlayerTurn);
-        }
+        // //For debugging, changing state with space, delete this later
+        // if (Keyboard.current.spaceKey.wasPressedThisFrame)
+        // {
+        //     if (currentState == PlayerTurn)ChangeState(EnemyTurn);
+        //     else ChangeState(PlayerTurn);
+        // }
         currentState?.onUpdate();
     }
     public void ChangeState(IBattleState nextState)

@@ -26,11 +26,11 @@ public class PH_ObjPooling : MonoBehaviour
     }
     public void RemovePooledBullet()
     {
-        for (int i = 0; i < bullets.Count; i++)
+        for (int i = 0; i < bullets?.Count; i++)
         {
             Destroy(bullets[i]);
         }
-        bullets.Clear();
+        bullets?.Clear();
     }
     public GameObject GetBulett()
     {

@@ -16,7 +16,7 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
     private bool DamageAble = true;
     private bool canHeal = true;
     private int currentHP;
-    public Action OnDefeated;
+    public static Action OnDefeated;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

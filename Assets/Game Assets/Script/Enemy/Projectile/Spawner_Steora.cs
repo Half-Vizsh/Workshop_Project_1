@@ -51,7 +51,7 @@ public class Spawner_Steora: Spawner_Base
     {
         base.StopSpawning();
         StopAllCoroutines();
-        PH_ObjPooling.objPoolInstance.RemovePooledBullet();
+        PH_ObjPooling.objPoolInstance?.RemovePooledBullet();
     }
     private IEnumerator Blasting()
     {
