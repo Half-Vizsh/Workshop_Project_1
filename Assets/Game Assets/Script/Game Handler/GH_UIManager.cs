@@ -13,14 +13,18 @@ public class GH_UIManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI UIText;
     [SerializeField] private Button AttackButton;
     [SerializeField]private Button ReturnToMainMenu;
+    private GH_TargetHandler ThScript; //Awalnya event diakses static, tpi bikin error pas pindah-pindah scene, makanya jadi reference
+    private Ply_Char_Base PlyScript;
     private bool gameEnded;  
     private bool gamePaused;
     private GameObject lastButtonPressed;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Ply_Char_Base.OnDefeated += OnLose;
-        GH_BattleHandler.OnWin += OnWin;
+        PlyScript = GameObject.FindGameObjectWithTag("PlayerSoul").GetComponent<Ply_Char_Base>();
+        PlyScript.OnDefeated += OnLose;
+        ThScript = GameObject.FindGameObjectWithTag("GameHandler").GetComponent<GH_TargetHandler>();
+        ThScript.OnWin += OnWin;
         MenuUI.SetActive(false);
         Time.timeScale = 1f;   
         EventSystem.current.SetSelectedGameObject(AttackButton.gameObject); 
@@ -39,10 +43,13 @@ public class GH_UIManager : MonoBehaviour
     {
         if(gameEnded) return;
         lastButtonPressed = EventSystem.current.currentSelectedGameObject;
-        EventSystem.current.SetSelectedGameObject(ReturnToMainMenu.gameObject); 
+        EventSystem.current.SetSelectedGameObject(ReturnToMainMenu.gameObject);
+         
         gamePaused = true;
+        
         MenuUI.SetActive(true);
-        BackgroundPanel.color = new Color (0,0,0,20);
+        UIText.text = "Pause";
+        BackgroundPanel.color = new Color32 (0,0,0,150);
         Time.timeScale = 0f;   
     }
     void onResume()
@@ -56,17 +63,24 @@ public class GH_UIManager : MonoBehaviour
     void OnLose()
     {
         if (gamePaused) onResume();
+        EventSystem.current.SetSelectedGameObject(ReturnToMainMenu.gameObject); 
+        Time.timeScale = 0f;   
         gameEnded = true;
         MenuUI.SetActive(true);
         UIText.text = "Game Over";
-        BackgroundPanel.color = new Color (255, 64, 86, 159);
+        BackgroundPanel.color = new Color32 (255, 64, 86, 159);
+        ThScript.OnWin -= OnWin;
+        PlyScript.OnDefeated -=OnLose;
     }
     void OnWin()
     {
         if (gamePaused) onResume();
+        EventSystem.current.SetSelectedGameObject(ReturnToMainMenu.gameObject); 
+        Time.timeScale = 0f;   
         gameEnded = true;
         MenuUI.SetActive(true);
         UIText.text = "Game Ended";
-        BackgroundPanel.color = new Color (255,193,64,159);
-    }    
+        BackgroundPanel.color = new Color32 (255,193,64,159);
+        ThScript.OnWin -= OnWin;
+        PlyScript.OnDefeated -=OnLose;    }    
 }

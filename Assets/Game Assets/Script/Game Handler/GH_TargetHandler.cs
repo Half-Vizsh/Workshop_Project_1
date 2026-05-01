@@ -13,13 +13,17 @@ public class GH_TargetHandler : MonoBehaviour
     public  int currentIdx = 0;
     public event Action<Emy_Base> AttackConfirmed;
     public event Action AttackCanceled;
+    public Action OnWin;
     private bool isTargeting = false;
     public void addTarget(Emy_Base T)
     {
       SelectablesEmy.Add(T);  
         Debug.Log(T.name + " registered, total: " + SelectablesEmy.Count);
     } 
-    public void remTarget(Emy_Base T) => SelectablesEmy.Remove(T);
+    public void remTarget(Emy_Base T) {
+        SelectablesEmy.Remove(T);
+        if (SelectablesEmy.Count<=0) OnWin.Invoke();
+    }
     public void doTargetting()
     {
         if (isTargeting) return;

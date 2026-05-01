@@ -10,7 +10,6 @@ public class GH_BattleHandler : MonoBehaviour
 {
     //This script Handle the turn base mechanic and player's input
     public static GH_BattleHandler Instance {get; private set;}
-    public static Action OnWin;
     private IBattleState currentState;
     public St_PlayerTurn PlayerTurn {get; private set;}
     public St_EnemyTurn EnemyTurn {get; private set;}

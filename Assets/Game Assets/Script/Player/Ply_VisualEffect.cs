@@ -27,7 +27,7 @@ public class Ply_FlashEffect : MonoBehaviour
     }
     public IEnumerator FlashEffect()
     {
-        if (flashMat == null || normalMat == null)
+        if (flashMat == null || normalMat == null || sr == null)
         {
             Debug.Log ("Material not detected");
             yield break;
@@ -53,7 +53,7 @@ public class Ply_FlashEffect : MonoBehaviour
             yield return new WaitForSecondsRealtime(FlashDur);
         }
     }
-    public void UpdateBar(int curHealth, int maxHealth)
+    public void UpdateBar(int curHealth)
     {
         greenBar.fillAmount = curHealth/100f;
     }

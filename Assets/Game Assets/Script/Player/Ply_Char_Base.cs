@@ -16,14 +16,14 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
     private bool DamageAble = true;
     private bool canHeal = true;
     private int currentHP;
-    public static Action OnDefeated;
+    public Action OnDefeated;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         currentHP = MaxHP;
         visualScript = GetComponent<Ply_FlashEffect>();
-        visualScript.UpdateBar(currentHP, MaxHP);
+        visualScript.UpdateBar(currentHP);
     }
 
     // Update is called once per frame
@@ -44,7 +44,7 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
         Debug.Log("Character Taking damage: "+DamageAmount+" HP left: "+this.currentHP);
         currentFrame = IFrame;
         visualScript.doFlash();
-        visualScript.UpdateBar(currentHP, MaxHP);
+        visualScript.UpdateBar(currentHP);
         if (Mathf.Clamp(currentHP, 0, MaxHP) == 0)
         {
             visualScript.DeleteChar();
@@ -63,7 +63,7 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
         if (!canHeal) return;
         currentHP = Mathf.Clamp(currentHP+HealAmount, 0, MaxHP);
         visualScript.doHealEffect();         
-        visualScript.UpdateBar(currentHP, MaxHP);
+        visualScript.UpdateBar(currentHP);
         Debug.Log("Character Receive Heal: "+HealAmount+" HP left: "+this.currentHP);
         StartCoroutine(HealCooldown());
 }

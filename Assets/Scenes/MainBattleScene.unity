@@ -519,7 +519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.39607844}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.5882353}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -4176,6 +4176,14 @@ PrefabInstance:
       propertyPath: greenBar
       value: 
       objectReference: {fileID: 1643146941}
+    - target: {fileID: 8387634990963502403, guid: 63b95b38fb8b69c429b6e3cba72e9920, type: 3}
+      propertyPath: MaxHP
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8387634990963502403, guid: 63b95b38fb8b69c429b6e3cba72e9920, type: 3}
+      propertyPath: baseDamage
+      value: 35
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
