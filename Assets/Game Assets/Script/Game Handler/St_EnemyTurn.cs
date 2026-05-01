@@ -13,6 +13,7 @@ public class St_EnemyTurn : IBattleState
         Debug.Log("Entering Enemy Turn");
         ctx.doMoveCent();
         ctx.showArea();
+        ctx.doAttackSequence();
     }
     public void onUpdate()
     {
@@ -22,7 +23,7 @@ public class St_EnemyTurn : IBattleState
     public void onExit()
     {
         Debug.Log("Exiting Enemy Turn");
-        ctx.doMoveBack();
+        // ctx.doMoveBack();
         ctx.hideArea();
     }
 }

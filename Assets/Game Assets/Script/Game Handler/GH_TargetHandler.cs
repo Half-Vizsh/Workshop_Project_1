@@ -17,7 +17,6 @@ public class GH_TargetHandler : MonoBehaviour
     public void remTarget(Emy_Base T) => SelectablesEmy.Remove(T);
     public void doTargetting()
     {
-        //Does executed
         if (isTargeting) return;
         StopAllCoroutines();
         currentIdx = 0; 
@@ -69,4 +68,8 @@ public class GH_TargetHandler : MonoBehaviour
         if (SelectablesEmy.Count<=0) return null;
         return SelectablesEmy[currentIdx];
     }   
+    public List<Emy_Base> GetAllEnemies()
+    {
+        return SelectablesEmy;
+    }
 }

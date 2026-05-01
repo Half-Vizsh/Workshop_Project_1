@@ -7,6 +7,7 @@ TagManager:
   - Selectable
   - GameHandler
   - PlayerSoul
+  - SecretWall
   layers:
   - Default
   - TransparentFX

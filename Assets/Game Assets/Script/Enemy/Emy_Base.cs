@@ -1,10 +1,12 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class Emy_Base : MonoBehaviour, IDamageable
 {
     protected int currentHP; public int getHP(){return currentHP;}
     [SerializeField] protected int MaxHP = 100;
+    [SerializeField] protected Spawner_Base SpawnerChild;
     protected GH_TargetHandler GH_TH_Script;
     protected Emy_Visual VisualScript;
     public virtual void Awake  ()
@@ -14,10 +16,17 @@ public class Emy_Base : MonoBehaviour, IDamageable
         GH_TH_Script = GameObject.FindGameObjectWithTag("GameHandler").GetComponent<GH_TargetHandler>();
         GH_TH_Script.addTarget(this);
         VisualScript = this.GetComponent<Emy_Visual>();
+        this.SpawnerChild = GetComponentInChildren<Spawner_Base>();
     }
-    public virtual void Update()
+    public virtual void Start(){}
+    public virtual void Update(){}
+    public virtual void StartAttack()
     {
-        
+        SpawnerChild.StartSpawning();
+    }
+    public virtual void StopAttack()
+    {
+        SpawnerChild.StopSpawning();
     }
     //#Damaging
     public virtual  void TakeDamage(int amount)
@@ -33,24 +42,23 @@ public class Emy_Base : MonoBehaviour, IDamageable
     {
         Debug.Log ("Object Die");
         GH_TH_Script.remTarget(this);
+        StopAttack();
         Destroy(gameObject, 0.5f);
     }
-    //#Targetting
+    //Targetting Visual Effect
     public virtual void onChoosen()
     {
-        //Nampilin kursor gitu lah harusnya
-        Debug.Log(this.name+" is being choosen");
+        // Debug.Log(this.name+" is being choosen");
         VisualScript.showCursor();
     }
     public virtual void onLeave()
     {
-        Debug.Log(this.name+"Leave the shit");
+        // Debug.Log(this.name+"Leave the shit");
         VisualScript.hideCursor();
     }
     public virtual void OnConfirm()
     {
-        //Disini trigger damaging
-        Debug.Log("This shit is executed");
+        // Debug.Log("This shit is executed");
         VisualScript.hideCursor();
     }
 }

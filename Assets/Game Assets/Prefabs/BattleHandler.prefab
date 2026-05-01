@@ -47,9 +47,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GH_BattleHandler
   options: {fileID: 0}
   Ply_AttackButton: {fileID: 0}
-  Ply_ItemButton: {fileID: 0}
+  Ply_HealButton: {fileID: 0}
   SoulScript: {fileID: 0}
   MoveableArea: {fileID: 0}
+  SequenceTime: 10
+  AttackDelay: 1
 --- !u!114 &4863501103428304880
 MonoBehaviour:
   m_ObjectHideFlags: 0
