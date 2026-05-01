@@ -21,12 +21,16 @@ public class PH_ObjPooling : MonoBehaviour
     public void setPooledBullet(GameObject NewBullet)
     {
         if (NewBullet == pooledBullet) return;
-        for (int i = 0; i < bullets.Count; i++)
-            {
-                    Destroy(bullets[i]);
-            }
-        bullets.Clear();
+        RemovePooledBullet();
         this.pooledBullet = NewBullet;
+    }
+    public void RemovePooledBullet()
+    {
+        for (int i = 0; i < bullets.Count; i++)
+        {
+            Destroy(bullets[i]);
+        }
+        bullets.Clear();
     }
     public GameObject GetBulett()
     {

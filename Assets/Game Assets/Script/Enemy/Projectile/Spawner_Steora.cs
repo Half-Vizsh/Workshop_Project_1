@@ -9,7 +9,7 @@ public enum SpawnerType {
     Circle, 
     Line
     }
-public class Spawner_Steora: MonoBehaviour
+public class Spawner_Steora: Spawner_Base
 {
     //Projectile Handler, ngikutin tutorial Alexander Zotov
     [Header("General Settings")]
@@ -27,17 +27,35 @@ public class Spawner_Steora: MonoBehaviour
     [SerializeField]private int regularAmount;
     [SerializeField]private float rotationSpeed;
     private bool shouldRotate;
-    void Start()
+    protected override void Start()
     {
-        StartCoroutine(Blasting());
+        base.Start();
+        SpawnerSprite = GetComponent<SpriteRenderer>();
     }
-    void Update()
+    protected override void Update()
     {
         if (shouldRotate)  transform.Rotate(0,0,rotationSpeed*Time.fixedDeltaTime);
-        else if (transform.rotation.z!=0) transform.rotation = quaternion.identity;
+        // else if (transform.rotation.z!=0) transform.rotation = quaternion.identity;
+    }
+    public override void StartSpawning()
+    {
+        base.StartSpawning();
+        int typeRandom = UnityEngine.Random.Range(0,2);
+        SpawnerSprite.color = Color.white;
+        if (typeRandom == 0) currentType = SpawnerType.Circle;
+        else currentType = SpawnerType.Line;
+        StartCoroutine(Blasting());
+        
+    }
+    public override void StopSpawning()
+    {
+        base.StopSpawning();
+        StopAllCoroutines();
+        PH_ObjPooling.objPoolInstance.RemovePooledBullet();
     }
     private IEnumerator Blasting()
     {
+        if (!canAttack) yield return null;
         while (true){
             CheckBehaviour();
             float angleStep = (endAngle-startAngle)/bulletsAmount;
@@ -63,6 +81,7 @@ public class Spawner_Steora: MonoBehaviour
         switch (currentType)
         {
                 case SpawnerType.Circle:
+                    transform.rotation = quaternion.identity;
                      this.fireRate = homingFireRate;
                      this.bulletsAmount = homingAmount;
                      PH_ObjPooling.objPoolInstance.setPooledBullet(HomingBullet);

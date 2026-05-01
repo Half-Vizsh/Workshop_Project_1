@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.UI;
 public class GH_BattleHandler : MonoBehaviour
 {
-    //Script ini ngehandle ganti-ganti turn ama input player
+    //This script Handle the turn base mechanic and player's input
     public static GH_BattleHandler Instance {get; private set;}
     private IBattleState currentState;
     public St_PlayerTurn PlayerTurn {get; private set;}
@@ -23,6 +23,8 @@ public class GH_BattleHandler : MonoBehaviour
     [Header("Enemy Turn Handler")]
     [SerializeField] private Ply_Soul_Move SoulScript; 
     [SerializeField] private GameObject MoveableArea;   public void showArea(){this.MoveableArea.SetActive(true);} public void hideArea(){this.MoveableArea.SetActive(false);}
+    [SerializeField]private float SequenceTime;
+    [SerializeField] private float AttackDelay;
     private void Awake()
     {
         if (Instance != null) {Destroy(gameObject); return;}
@@ -39,6 +41,10 @@ public class GH_BattleHandler : MonoBehaviour
         GameObject PlayerObj = GameObject.FindGameObjectWithTag("PlayerSoul");
         playerScript = PlayerObj.GetComponent<Ply_Char_Base>();
         SoulScript = PlayerObj.GetComponent<Ply_Soul_Move>();
+        
+        StopAllAttacks();
+        hideArea();
+
         ChangeState(PlayerTurn);
     }
     private void Update()
@@ -57,6 +63,8 @@ public class GH_BattleHandler : MonoBehaviour
         currentState = nextState;
         currentState?.onEnter();
     }
+
+    //# PLAYER PHASE
     //Where the player's option logic is handled
     public void onAttackButtonClick()
     {
@@ -111,17 +119,50 @@ public class GH_BattleHandler : MonoBehaviour
             yield return null;
         }
     }
+
+    //#ENEMY PHASE
     //Where the Hearth movement handled
     public void doMoveCent() => StartCoroutine(MovingHeartCen());
     private IEnumerator MovingHeartCen()
     {
+        // SoulScript.enabled = true;
+        SoulScript.StopAllCoroutines();
         SoulScript.showheart();
-        yield return StartCoroutine(SoulScript.MoveToCenter());
-    }
+        SoulScript.doMoveToCenter();
+        yield return new WaitForSecondsRealtime(0.75f);
+  }
     public void doMoveBack() => StartCoroutine(MovingHeartOri());
     private IEnumerator MovingHeartOri()
     {
-        yield return StartCoroutine(SoulScript.MoveToChar());
+        SoulScript.StopAllCoroutines();
+        SoulScript.doMoveToChar();
+        yield return new WaitForSecondsRealtime(0.75f);
         SoulScript.hideHeart();
+        // SoulScript.enabled =false;
+    }
+    //Enable Spawner
+    public void StartAllAttacks(){
+        foreach (Emy_Base enemy in TargetHandler.GetAllEnemies())
+        {
+            enemy.StartAttack();
+        }
+    }
+    public void StopAllAttacks(){
+        foreach (Emy_Base enemy in TargetHandler.GetAllEnemies())
+        {
+            enemy.StopAttack();
+        }
+    }
+    //Attack Timing
+    public void doAttackSequence() => StartCoroutine(AttackSequence());
+    public IEnumerator AttackSequence()
+    {
+        yield return new WaitForSecondsRealtime(AttackDelay);
+        StartAllAttacks();
+        yield return new WaitForSecondsRealtime (SequenceTime);
+        StopAllAttacks();
+        doMoveBack();
+        yield return new WaitForSecondsRealtime(AttackDelay);
+        ChangeState(PlayerTurn);
     }
 }

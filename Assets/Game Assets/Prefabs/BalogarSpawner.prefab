@@ -77,12 +77,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2d4f6d9612037b4083895a1aeb39e94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spawner_Balogar
-  speed: 5
-  Cooldown: 1.15
-  pointA: {fileID: 0}
-  pointB: {fileID: 0}
+  canAttack: 0
+  SpawnerSprite: {fileID: 0}
+  speed: 2
+  Cooldown: 0.8
   SwordObject: {fileID: 453983170846451657, guid: 794f9512d7185314485027e4332aa55a, type: 3}
   SwordPoint: {fileID: 1120189580325253849}
+  leftBound: -3
+  rightBound: 3
 --- !u!1 &9133292376871239430
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,21 +1,22 @@
 using UnityEngine;
 
-public class Spawner_Balogar : MonoBehaviour
+public class Spawner_Balogar : Spawner_Base
 {
     [SerializeField] private float speed;
     [SerializeField]private float Cooldown;
-    [SerializeField] private Transform pointA;
-    [SerializeField] private Transform pointB;
     [SerializeField] private GameObject SwordObject;
     [SerializeField] private GameObject SwordPoint;
-    private Transform target;
+    [SerializeField] private float leftBound  = 2f;
+    [SerializeField] private float rightBound = 7f;
+    private int _direction = 1;
     private float currentCD;
     //Ni spawner simpel aja yah, otak gw dah ngebul
-    void Start()
+    protected override void Start()
     {
-        target = pointB;
+        SpawnerSprite = GetComponentInChildren<SpriteRenderer>();
+        base.Start();
     }
-    void Update()
+    protected override void Update()
     {
         Patroling();
         if (currentCD<=0)
@@ -27,14 +28,13 @@ public class Spawner_Balogar : MonoBehaviour
     }
     public void Patroling()
     {
-        transform.position = Vector2.MoveTowards(transform.position,target.position,speed * Time.deltaTime);
-        if (Vector2.Distance(transform.position, target.position) < 0.05f)
-        {
-            target = (target == pointA) ? pointB : pointA;
-        }
+     transform.position += Vector3.right * _direction * speed * Time.deltaTime;
+        if (transform.position.x >= rightBound) _direction = -1;
+        if (transform.position.x <= leftBound)  _direction =  1;
     }
     public void Shoot()
     {
+        if (!canAttack) return;
         Vector3 SpawnPoint = SwordPoint.transform.position;
         Instantiate(SwordObject, SpawnPoint, Quaternion.identity);
     }

@@ -1,4 +1,6 @@
 using System;
+using System.Collections;
+using System.Security.Cryptography;
 using NUnit.Framework;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -12,6 +14,7 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
     private float currentFrame;
     private bool IsDead = false;
     private bool DamageAble = true;
+    private bool canHeal = true;
     private int currentHP;
     public Action OnDefeated;
     
@@ -48,12 +51,21 @@ public class Ply_Char_Base : MonoBehaviour, IDamageable
             Die();
         }
     }
+    public IEnumerator HealCooldown()
+    {
+        //Waktu di enter, heal ke trigger berkali-kali jadinya dia heal langsung penuh, makanya dibikiin cd gini
+        canHeal = false;
+        yield return new WaitForSecondsRealtime(2f);
+        canHeal = true;
+    }
     public virtual void ReceiveHeal(int HealAmount)
     {
+        if (!canHeal) return;
         currentHP = Mathf.Clamp(currentHP+HealAmount, 0, MaxHP);
         visualScript.doHealEffect();         
         visualScript.UpdateBar(currentHP, MaxHP);
         Debug.Log("Character Receive Heal: "+HealAmount+" HP left: "+this.currentHP);
+        StartCoroutine(HealCooldown());
 }
     public virtual void Die()
     {

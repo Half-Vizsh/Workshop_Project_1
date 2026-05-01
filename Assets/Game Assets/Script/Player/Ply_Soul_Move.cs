@@ -33,7 +33,10 @@ public class Ply_Soul_Move : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (!canMove) return;
+        if (!canMove) {
+            rb2D.linearVelocity = Vector2.zero;
+            return;
+        }
         Moving();
     }
     void Moving()
@@ -41,27 +44,31 @@ public class Ply_Soul_Move : MonoBehaviour
         rb2D.linearVelocity = Move.normalized*getSpeed();
     }
     //Ini teh supaya setiap masuk enemy turn, si hatinya gerak dari player ke tengah layar, abistu begitu selesai dia balik lagi
+    public void doMoveToCenter() => StartCoroutine (MoveToCenter());
     public IEnumerator MoveToCenter()
     {
         canMove = false;
-        while (Vector2.Distance(transform.position, CenterPos)>0.1f)
+        while (Vector2.Distance(transform.position, CenterPos)>2f)
         {
             transform.position = Vector2.Lerp(transform.position, CenterPos, AutoMoveSpeed*Time.deltaTime);
             yield return null;
         }
         transform.position = CenterPos;
+        yield return new WaitForSecondsRealtime(.5f);
         canMove = true;
     }
+    public void doMoveToChar() => StartCoroutine (MoveToChar());
     public IEnumerator MoveToChar()
     {
         canMove = false;
-        while (Vector2.Distance(transform.position, originPos)>0.1f)
+        while (Vector2.Distance(transform.position, originPos)>2f)
         {
             transform.position = Vector2.Lerp(transform.position, originPos, AutoMoveSpeed*Time.deltaTime);
             yield return null;
         }
         transform.position = originPos;
-        canMove = true;
+        yield return new WaitForSecondsRealtime(1f);
+        // canMove = true;
     }
     //Invisible
     public void hideHeart() => sr.color = new Color (1f,1f,1f,0f);
